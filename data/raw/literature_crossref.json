@@ -1,0 +1,1895 @@
+[
+ {
+  "query": "Information propagation in the Bitcoin network",
+  "matches": [
+   {
+    "doi": "10.1109/p2p.2013.6688704",
+    "title": "Information propagation in the Bitcoin network",
+    "authors": [
+     "Christian Decker",
+     "Roger Wattenhofer"
+    ],
+    "year": 2013,
+    "venue": "IEEE P2P 2013 Proceedings",
+    "type": "proceedings-article"
+   },
+   {
+    "doi": "10.5220/0014468100004061",
+    "title": "Prevention of Bitcoin Loot in Bitcoin Lightning Network",
+    "authors": [
+     "Sujit Sahoo",
+     "Akash Kumar",
+     "Pravas Bal",
+     "Abinash Mishra"
+    ],
+    "year": 2026,
+    "venue": "Proceedings of the 12th International Conference on Information Systems Security and Privacy",
+    "type": "proceedings-article"
+   },
+   {
+    "doi": "10.1109/blockchain53845.2021.00050",
+    "title": "Taming Propagation Delay and Fork Rate in Bitcoin Mining Network",
+    "authors": [
+     "Suhan Jiang",
+     "Jie Wu"
+    ],
+    "year": 2021,
+    "venue": "2021 IEEE International Conference on Blockchain (Blockchain)",
+    "type": "proceedings-article"
+   }
+  ]
+ },
+ {
+  "query": "Hijacking Bitcoin: Routing Attacks on Cryptocurrencies",
+  "matches": [
+   {
+    "doi": "10.1109/sp.2017.29",
+    "title": "Hijacking Bitcoin: Routing Attacks on Cryptocurrencies",
+    "authors": [
+     "Maria Apostolaki",
+     "Aviv Zohar",
+     "Laurent Vanbever"
+    ],
+    "year": 2017,
+    "venue": "2017 IEEE Symposium on Security and Privacy (SP)",
+    "type": "proceedings-article"
+   },
+   {
+    "doi": "10.5220/0010521106740679",
+    "title": "BlockJack: Towards Improved Prevention of IP Prefix Hijacking Attacks in Inter-domain Routing via Blockchain",
+    "authors": [
+     "I. Sentana",
+     "Muhammad Ikram",
+     "Mohamed Kaafar"
+    ],
+    "year": 2021,
+    "venue": "Proceedings of the 18th International Conference on Security and Cryptography",
+    "type": "proceedings-article"
+   },
+   {
+    "doi": "10.5220/0010521100002998",
+    "title": "BlockJack: Towards Improved Prevention of IP Prefix Hijacking Attacks in Inter-domain Routing via Blockchain",
+    "authors": [
+     "I. Sentana",
+     "Muhammad Ikram",
+     "Mohamed Kaafar"
+    ],
+    "year": 2021,
+    "venue": "Proceedings of the 18th International Conference on Security and Cryptography",
+    "type": "proceedings-article"
+   }
+  ]
+ },
+ {
+  "query": "Decentralization in Bitcoin and Ethereum Networks",
+  "matches": [
+   {
+    "doi": "10.1109/icdew53142.2021.00022",
+    "title": "Measuring Decentralization in Bitcoin and Ethereum using Multiple Metrics and Granularities",
+    "authors": [
+     "Qinwei Lin",
+     "Chao Li",
+     "Xifeng Zhao",
+     "Xianhai Chen"
+    ],
+    "year": 2021,
+    "venue": "2021 IEEE 37th International Conference on Data Engineering Workshops (ICDEW)",
+    "type": "proceedings-article"
+   },
+   {
+    "doi": "10.1108/ijoes-03-2025-0144",
+    "title": "From Bitcoin to Ethereum: ethics and antifragility of decentralization",
+    "authors": [
+     "Roman Pavlov",
+     "Tetiana Pavlova",
+     "Tetyana Grynko",
+     "Oksana Levkovich",
+     "Liudmyla Hordieieva-Herasymova"
+    ],
+    "year": 2026,
+    "venue": "International Journal of Ethics and Systems",
+    "type": "journal-article"
+   },
+   {
+    "doi": "10.51257/a-v1-te6300",
+    "title": "Blockchain : Principes, Bitcoin et Ethereum - La chaîne de blocs de valeurs",
+    "authors": [
+     "Laurence LECOEUR",
+     "Jean-François GERVAIS"
+    ],
+    "year": 2022,
+    "venue": "Le traitement du signal et ses applications",
+    "type": "journal-article"
+   }
+  ]
+ },
+ {
+  "query": "Network Layer Aspects of Permissionless Blockchains",
+  "matches": [
+   {
+    "doi": "10.1109/comst.2018.2852480",
+    "title": "Network Layer Aspects of Permissionless Blockchains",
+    "authors": [
+     "Till Neudecker",
+     "Hannes Hartenstein"
+    ],
+    "year": 2019,
+    "venue": "IEEE Communications Surveys &amp; Tutorials",
+    "type": "journal-article"
+   },
+   {
+    "doi": "10.2139/ssrn.4512507",
+    "title": "\"Zero Cost'' Majority Attacks on Permissionless Blockchains",
+    "authors": [
+     "Joshua Gans",
+     "Hanna Halaburda"
+    ],
+    "year": 2023,
+    "venue": "",
+    "type": "posted-content"
+   },
+   {
+    "doi": "10.1002/nem.2184",
+    "title": "Simulating permissionless blockchains: Distribution fitting, tool support, and a case study",
+    "authors": [
+     "Maher Alharby",
+     "Aad van Moorsel"
+    ],
+    "year": 2021,
+    "venue": "International Journal of Network Management",
+    "type": "journal-article"
+   }
+  ]
+ },
+ {
+  "query": "Analyzing the Deployment of Bitcoin's P2P Network under an AS-level Perspective",
+  "matches": [
+   {
+    "doi": "10.1016/j.procs.2014.05.542",
+    "title": "Analyzing the Deployment of Bitcoin's P2P Network under an AS-level Perspective",
+    "authors": [
+     "Sebastian Feld",
+     "Mirco Schönfeld",
+     "Martin Werner"
+    ],
+    "year": 2014,
+    "venue": "Procedia Computer Science",
+    "type": "journal-article"
+   },
+   {
+    "doi": "10.1109/access.2022.3204387",
+    "title": "SoK: Network-Level Attacks on the Bitcoin P2P Network",
+    "authors": [
+     "Federico Franzoni",
+     "Vanesa Daza"
+    ],
+    "year": 2022,
+    "venue": "IEEE Access",
+    "type": "journal-article"
+   },
+   {
+    "doi": "10.1109/p2p.2013.6688704",
+    "title": "Information propagation in the Bitcoin network",
+    "authors": [
+     "Christian Decker",
+     "Roger Wattenhofer"
+    ],
+    "year": 2013,
+    "venue": "IEEE P2P 2013 Proceedings",
+    "type": "proceedings-article"
+   }
+  ]
+ },
+ {
+  "query": "The Bitcoin P2P Network",
+  "matches": [
+   {
+    "doi": "10.1109/p2p.2013.6688704",
+    "title": "Information propagation in the Bitcoin network",
+    "authors": [
+     "Christian Decker",
+     "Roger Wattenhofer"
+    ],
+    "year": 2013,
+    "venue": "IEEE P2P 2013 Proceedings",
+    "type": "proceedings-article"
+   },
+   {
+    "doi": "10.1109/access.2022.3204387",
+    "title": "SoK: Network-Level Attacks on the Bitcoin P2P Network",
+    "authors": [
+     "Federico Franzoni",
+     "Vanesa Daza"
+    ],
+    "year": 2022,
+    "venue": "IEEE Access",
+    "type": "journal-article"
+   },
+   {
+    "doi": "10.54569/aair.1608702",
+    "title": "ALTO-assisted Peer Selection in Bitcoin P2P Network",
+    "authors": [
+     "Cihat Çetinkaya"
+    ],
+    "year": 2024,
+    "venue": "Advances in Artificial Intelligence Research",
+    "type": "journal-article"
+   }
+  ]
+ },
+ {
+  "query": "Deanonymisation of clients in Bitcoin P2P network",
+  "matches": [
+   {
+    "doi": "10.1145/2660267.2660379",
+    "title": "Deanonymisation of Clients in Bitcoin P2P Network",
+    "authors": [
+     "Alex Biryukov",
+     "Dmitry Khovratovich",
+     "Ivan Pustogarov"
+    ],
+    "year": 2014,
+    "venue": "Proceedings of the 2014 ACM SIGSAC Conference on Computer and Communications Security",
+    "type": "proceedings-article"
+   },
+   {
+    "doi": "10.1109/p2p.2013.6688704",
+    "title": "Information propagation in the Bitcoin network",
+    "authors": [
+     "Christian Decker",
+     "Roger Wattenhofer"
+    ],
+    "year": 2013,
+    "venue": "IEEE P2P 2013 Proceedings",
+    "type": "proceedings-article"
+   },
+   {
+    "doi": "10.1109/access.2022.3204387",
+    "title": "SoK: Network-Level Attacks on the Bitcoin P2P Network",
+    "authors": [
+     "Federico Franzoni",
+     "Vanesa Daza"
+    ],
+    "year": 2022,
+    "venue": "IEEE Access",
+    "type": "journal-article"
+   }
+  ]
+ },
+ {
+  "query": "Bitcoin over Tor isn't a Good Idea",
+  "matches": [
+   {
+    "doi": "10.1109/sp.2015.15",
+    "title": "Bitcoin over Tor isn't a Good Idea",
+    "authors": [
+     "Alex Biryukov",
+     "Ivan Pustogarov"
+    ],
+    "year": 2015,
+    "venue": "2015 IEEE Symposium on Security and Privacy",
+    "type": "proceedings-article"
+   },
+   {
+    "doi": "10.31219/osf.io/79k6b",
+    "title": "Bittorrent over Tor: a bad idea? A scientific controversy revisited.",
+    "authors": [
+     "Camille Akmut"
+    ],
+    "year": 2020,
+    "venue": "",
+    "type": "posted-content"
+   },
+   {
+    "doi": "10.1097/00006247-200604000-00003",
+    "title": "Positive outcomes? Good isn???t good enough",
+    "authors": [
+     "Richard Hader"
+    ],
+    "year": 2006,
+    "venue": "Nursing Management (Springhouse)",
+    "type": "journal-article"
+   }
+  ]
+ },
+ {
+  "query": "A Stealthier Partitioning Attack against Bitcoin Peer-to-Peer Network",
+  "matches": [
+   {
+    "doi": "10.1109/sp40000.2020.00027",
+    "title": "A Stealthier Partitioning Attack against Bitcoin Peer-to-Peer Network",
+    "authors": [
+     "Muoi Tran",
+     "Inho Choi",
+     "Gi Jun Moon",
+     "Anh V. Vu",
+     "Min Suk Kang"
+    ],
+    "year": 2020,
+    "venue": "2020 IEEE Symposium on Security and Privacy (SP)",
+    "type": "proceedings-article"
+   },
+   {
+    "doi": "10.1007/s12083-024-01829-1",
+    "title": "Unveiling bitcoin network attack using deep reinforcement learning with Boltzmann exploration",
+    "authors": [
+     "Monali Shetty",
+     "Sharvari Tamane"
+    ],
+    "year": 2024,
+    "venue": "Peer-to-Peer Networking and Applications",
+    "type": "journal-article"
+   },
+   {
+    "doi": "10.2139/ssrn.5206504",
+    "title": "Block Talk: Peer-to-Peer Messaging on The Bitcoin Lightning Network",
+    "authors": [
+     "Brian Haney",
+     "Samuel Tosin",
+     "David Kazeem"
+    ],
+    "year": 2025,
+    "venue": "",
+    "type": "posted-content"
+   }
+  ]
+ },
+ {
+  "query": "TxProbe: Discovering Bitcoin's Network Topology Using Orphan Transactions",
+  "matches": [
+   {
+    "doi": "10.1007/978-3-030-32101-7_32",
+    "title": "TxProbe: Discovering Bitcoin’s Network Topology Using Orphan Transactions",
+    "authors": [
+     "Sergi Delgado-Segura",
+     "Surya Bakshi",
+     "Cristina Pérez-Solà",
+     "James Litton",
+     "Andrew Pachulski",
+     "Andrew Miller",
+     "Bobby Bhattacharjee"
+    ],
+    "year": 2019,
+    "venue": "Lecture Notes in Computer Science",
+    "type": "book-chapter"
+   },
+   {
+    "doi": "10.1109/cscwd64889.2025.11033500",
+    "title": "Discovering the P2P Network Layer Topology of Bitcoin Nodes",
+    "authors": [
+     "Youlin Cheng",
+     "Dongmei Song",
+     "Xiang Lu"
+    ],
+    "year": 2025,
+    "venue": "2025 28th International Conference on Computer Supported Cooperative Work in Design (CSCWD)",
+    "type": "proceedings-article"
+   },
+   {
+    "doi": "10.1109/tnsm.2021.3056949",
+    "title": "Investigating Orphan Transactions in the Bitcoin Network",
+    "authors": [
+     "Muhammad Anas Imtiaz",
+     "David Starobinski",
+     "Ari Trachtenberg"
+    ],
+    "year": 2021,
+    "venue": "IEEE Transactions on Network and Service Management",
+    "type": "journal-article"
+   }
+  ]
+ },
+ {
+  "query": "Timing Analysis for Inferring the Topology of the Bitcoin Peer-to-Peer Network",
+  "matches": [
+   {
+    "doi": "10.1109/uic-atc-scalcom-cbdcom-iop-smartworld.2016.0070",
+    "title": "Timing Analysis for Inferring the Topology of the Bitcoin Peer-to-Peer Network",
+    "authors": [
+     "Till Neudecker",
+     "Philipp Andelfinger",
+     "Hannes Hartenstein"
+    ],
+    "year": 2016,
+    "venue": "2016 Intl IEEE Conferences on Ubiquitous Intelligence &amp; Computing, Advanced and Trusted Computing, Scalable Computing and Communications, Cloud and Big Data Computing, Internet of People, and Smart World Congress (UIC/ATC/ScalCom/CBDCom/IoP/SmartWorld)",
+    "type": "proceedings-article"
+   },
+   {
+    "doi": "10.1007/s12083-021-01201-7",
+    "title": "AToM: Active topology monitoring for the bitcoin peer-to-peer network",
+    "authors": [
+     "Federico Franzoni",
+     "Xavier Salleras",
+     "Vanesa Daza"
+    ],
+    "year": 2021,
+    "venue": "Peer-to-Peer Networking and Applications",
+    "type": "journal-article"
+   },
+   {
+    "doi": "10.23919/pemwn.2018.8548904",
+    "title": "BTCmap: Mapping Bitcoin Peer-to-Peer Network Topology",
+    "authors": [
+     "Varun Deshpande",
+     "Hakim Badis",
+     "Laurent George"
+    ],
+    "year": 2018,
+    "venue": "2018 IFIP/IEEE International Conference on Performance Evaluation and Modeling in Wired and Wireless Networks (PEMWN)",
+    "type": "proceedings-article"
+   }
+  ]
+ },
+ {
+  "query": "Impossibility of Full Decentralization in Permissionless Blockchains",
+  "matches": [
+   {
+    "doi": "10.1145/3318041.3355463",
+    "title": "Impossibility of Full Decentralization in Permissionless Blockchains",
+    "authors": [
+     "Yujin Kwon",
+     "Jian Liu",
+     "Minjeong Kim",
+     "Dawn Song",
+     "Yongdae Kim"
+    ],
+    "year": 2019,
+    "venue": "Proceedings of the 1st ACM Conference on Advances in Financial Technologies",
+    "type": "proceedings-article"
+   },
+   {
+    "doi": "10.2139/ssrn.3715596",
+    "title": "When Permissioned Blockchains Deliver More Decentralization Than Permissionless",
+    "authors": [
+     "Yannis Bakos",
+     "Hanna Halaburda",
+     "Christoph Mueller-Bloch"
+    ],
+    "year": 2021,
+    "venue": "",
+    "type": "posted-content"
+   },
+   {
+    "doi": "10.1145/3442371",
+    "title": "When permissioned blockchains deliver more decentralization than permissionless",
+    "authors": [
+     "Yannis Bakos",
+     "Hanna Halaburda",
+     "Christoph Mueller-Bloch"
+    ],
+    "year": 2021,
+    "venue": "Communications of the ACM",
+    "type": "journal-article"
+   }
+  ]
+ },
+ {
+  "query": "Taxonomy of centralization in public blockchain systems: A systematic literature review",
+  "matches": [
+   {
+    "doi": "10.1016/j.ipm.2021.102584",
+    "title": "Taxonomy of centralization in public blockchain systems: A systematic literature review",
+    "authors": [
+     "Ashish Rajendra Sai",
+     "Jim Buckley",
+     "Brian Fitzgerald",
+     "Andrew Le Gear"
+    ],
+    "year": 2021,
+    "venue": "Information Processing &amp; Management",
+    "type": "journal-article"
+   },
+   {
+    "doi": "10.1016/j.bcra.2023.100129",
+    "title": "A systematic literature review of the tension between the GDPR and public blockchain systems",
+    "authors": [
+     "Rahime Belen-Saglam",
+     "Enes Altuncu",
+     "Yang Lu",
+     "Shujun Li"
+    ],
+    "year": 2023,
+    "venue": "Blockchain: Research and Applications",
+    "type": "journal-article"
+   },
+   {
+    "doi": "10.32388/fnivvm",
+    "title": "Review of: \"Blockchain EV Payment Systems: A Systematic Literature Review in Retail Energy Trading\"",
+    "authors": [
+     "Azam Khalili"
+    ],
+    "year": 2023,
+    "venue": "",
+    "type": "peer-review"
+   }
+  ]
+ },
+ {
+  "query": "ASdb: a system for classifying owners of autonomous systems",
+  "matches": [
+   {
+    "doi": "10.1145/3487552.3487853",
+    "title": "ASdb",
+    "authors": [
+     "Maya Ziv",
+     "Liz Izhikevich",
+     "Kimberly Ruth",
+     "Katherine Izhikevich",
+     "Zakir Durumeric"
+    ],
+    "year": 2021,
+    "venue": "Proceedings of the 21st ACM Internet Measurement Conference",
+    "type": "proceedings-article"
+   },
+   {
+    "doi": "10.1016/j.robot.2007.05.006",
+    "title": "Classifying still faces with ultrasonic sensing",
+    "authors": [
+     "Phillip McKerrow",
+     "Kok Kai Yoong"
+    ],
+    "year": 2007,
+    "venue": "Robotics and Autonomous Systems",
+    "type": "journal-article"
+   },
+   {
+    "doi": "10.55277/researchhub.3va3fxeb.1",
+    "title": "ASDB",
+    "authors": [
+     "mtamil games"
+    ],
+    "year": 2026,
+    "venue": "",
+    "type": "report"
+   }
+  ]
+ },
+ {
+  "query": "Analyzing third party service dependencies in modern web services: have we learned from the mirai-dyn incident?",
+  "matches": [
+   {
+    "doi": "10.1145/3419394.3423664",
+    "title": "Analyzing Third Party Service Dependencies in Modern Web Services",
+    "authors": [
+     "Aqsa Kashaf",
+     "Vyas Sekar",
+     "Yuvraj Agarwal"
+    ],
+    "year": 2020,
+    "venue": "Proceedings of the ACM Internet Measurement Conference",
+    "type": "proceedings-article"
+   },
+   {
+    "doi": "10.1080/09528822.2011.573309",
+    "title": "The Incident at Modane",
+    "authors": [
+     "Paul O'Kane"
+    ],
+    "year": 2011,
+    "venue": "Third Text",
+    "type": "journal-article"
+   },
+   {
+    "doi": "10.2139/ssrn.3532742",
+    "title": "Third Party Participation at the WTO: What Have We Learned?",
+    "authors": [
+     "Krzysztof Pelc"
+    ],
+    "year": 2017,
+    "venue": "SSRN Electronic Journal",
+    "type": "journal-article"
+   }
+  ]
+ },
+ {
+  "query": "Measuring Ethereum Network Peers",
+  "matches": [
+   {
+    "doi": "10.1145/3278532.3278542",
+    "title": "Measuring Ethereum Network Peers",
+    "authors": [
+     "Seoung Kyun Kim",
+     "Zane Ma",
+     "Siddharth Murali",
+     "Joshua Mason",
+     "Andrew Miller",
+     "Michael Bailey"
+    ],
+    "year": 2018,
+    "venue": "Proceedings of the Internet Measurement Conference 2018",
+    "type": "proceedings-article"
+   },
+   {
+    "doi": "10.55277/researchhub.scgggvas",
+    "title": "Quantifying  Ethereum network Decentralization",
+    "authors": [
+     "Sufyan Ansari"
+    ],
+    "year": 2026,
+    "venue": "",
+    "type": "report"
+   },
+   {
+    "doi": "10.2139/ssrn.4822966",
+    "title": "Intrinsic Value of the Ethereum Blockchain Network",
+    "authors": [
+     "Joshua Eick"
+    ],
+    "year": 2024,
+    "venue": "",
+    "type": "posted-content"
+   }
+  ]
+ },
+ {
+  "query": "Nodes in the Bitcoin Network: Comparative Measurement Study and Survey",
+  "matches": [
+   {
+    "doi": "10.1109/access.2019.2914098",
+    "title": "Nodes in the Bitcoin Network: Comparative Measurement Study and Survey",
+    "authors": [
+     "Sehyun Park",
+     "Seongwon Im",
+     "Youhwan Seol",
+     "Jeongyeup Paek"
+    ],
+    "year": 2019,
+    "venue": "IEEE Access",
+    "type": "journal-article"
+   },
+   {
+    "doi": "10.1007/978-1-4842-5522-3_8",
+    "title": "Bitcoin Practice",
+    "authors": [
+     "Harris Brakmić"
+    ],
+    "year": 2019,
+    "venue": "Bitcoin and Lightning Network on Raspberry Pi",
+    "type": "book-chapter"
+   },
+   {
+    "doi": "10.1007/978-1-4842-5522-3_2",
+    "title": "Bitcoin Technology",
+    "authors": [
+     "Harris Brakmić"
+    ],
+    "year": 2019,
+    "venue": "Bitcoin and Lightning Network on Raspberry Pi",
+    "type": "book-chapter"
+   }
+  ]
+ },
+ {
+  "query": "On Scaling Decentralized Blockchains",
+  "matches": [
+   {
+    "doi": "10.1201/9781003596400-10",
+    "title": "Decentralized Finance Analysis and Blockchains",
+    "authors": [
+     "Nirdosh Bhatnagar"
+    ],
+    "year": 2026,
+    "venue": "Mathematical Foundations of Blockchains",
+    "type": "book-chapter"
+   },
+   {
+    "doi": "10.13164/9788021463943",
+    "title": "Lecture Notes for the Course: Blockchains and Decentralized Applications",
+    "authors": [
+     "Ivan Homoliak"
+    ],
+    "year": 2026,
+    "venue": "",
+    "type": "monograph"
+   },
+   {
+    "doi": "10.5220/0005378402840290",
+    "title": "From Bitcoin to Decentralized Autonomous Corporations - Extending the Application Scope of Decentralized Peer-to-Peer Networks and Blockchains",
+    "authors": [
+     "Kalliopi Kypriotaki",
+     "Efpraxia Zamani",
+     "George Giaglis"
+    ],
+    "year": 2015,
+    "venue": "Proceedings of the 17th International Conference on Enterprise Information Systems",
+    "type": "proceedings-article"
+   }
+  ]
+ },
+ {
+  "query": "Partitioning Attacks on Bitcoin: Colliding Space, Time, and Logic",
+  "matches": [
+   {
+    "doi": "10.1109/icdcs.2019.00119",
+    "title": "Partitioning Attacks on Bitcoin: Colliding Space, Time, and Logic",
+    "authors": [
+     "Muhammad Saad",
+     "Victor Cook",
+     "Lan Nguyen",
+     "My T. Thai",
+     "Aziz Mohaisen"
+    ],
+    "year": 2019,
+    "venue": "2019 IEEE 39th International Conference on Distributed Computing Systems (ICDCS)",
+    "type": "proceedings-article"
+   },
+   {
+    "doi": "10.1109/tifs.2025.3585468/mm1",
+    "title": "Dissecting Blockchain Network Partitioning Attacks and Novel Defense for Bitcoin and Ethereum_supp1-3585468.pdf",
+    "authors": [
+     "Yizhong Liu"
+    ],
+    "year": null,
+    "venue": "",
+    "type": "component"
+   },
+   {
+    "doi": "10.1093/oso/9780199653003.003.0009",
+    "title": "Pressure, Temperature, Time, and Space",
+    "authors": [
+     "Mike Searle"
+    ],
+    "year": 2013,
+    "venue": "Colliding Continents",
+    "type": "book-chapter"
+   }
+  ]
+ },
+ {
+  "query": "On the Peer Degree Distribution of the Bitcoin P2P Network",
+  "matches": [
+   {
+    "doi": "10.1109/icbc54727.2022.9805511",
+    "title": "On the Peer Degree Distribution of the Bitcoin P2P Network",
+    "authors": [
+     "Matthias Grundmann",
+     "Max Baumstark",
+     "Hannes Hartenstein"
+    ],
+    "year": 2022,
+    "venue": "2022 IEEE International Conference on Blockchain and Cryptocurrency (ICBC)",
+    "type": "proceedings-article"
+   },
+   {
+    "doi": "10.54569/aair.1608702",
+    "title": "ALTO-assisted Peer Selection in Bitcoin P2P Network",
+    "authors": [
+     "Cihat Çetinkaya"
+    ],
+    "year": 2024,
+    "venue": "Advances in Artificial Intelligence Research",
+    "type": "journal-article"
+   },
+   {
+    "doi": "10.1007/s12083-021-01241-z",
+    "title": "Clover: An anonymous transaction relay protocol for the bitcoin P2P network",
+    "authors": [
+     "Federico Franzoni",
+     "Vanesa Daza"
+    ],
+    "year": 2021,
+    "venue": "Peer-to-Peer Networking and Applications",
+    "type": "journal-article"
+   }
+  ]
+ },
+ {
+  "query": "Measuring Decentralization in Bitcoin and Ethereum using Multiple Metrics and Granularities",
+  "matches": [
+   {
+    "doi": "10.1109/icdew53142.2021.00022",
+    "title": "Measuring Decentralization in Bitcoin and Ethereum using Multiple Metrics and Granularities",
+    "authors": [
+     "Qinwei Lin",
+     "Chao Li",
+     "Xifeng Zhao",
+     "Xianhai Chen"
+    ],
+    "year": 2021,
+    "venue": "2021 IEEE 37th International Conference on Data Engineering Workshops (ICDEW)",
+    "type": "proceedings-article"
+   },
+   {
+    "doi": "10.15659/3.sektor-sosyal-ekonomi.22.04.1785",
+    "title": "BİTCOİN İLE ETHEREUM ARASINDAKİ NEDENSELLİĞİN TRANSFER ENTROPİSİ İLE ANALİZİ",
+    "authors": [
+     "BAKİ ÜNAL",
+     "ABDULLA SAKALLI"
+    ],
+    "year": 2022,
+    "venue": "3. SEKTÖR SOSYAL EKONOMİ DERGİSİ",
+    "type": "journal-article"
+   },
+   {
+    "doi": "10.1108/ijoes-03-2025-0144",
+    "title": "From Bitcoin to Ethereum: ethics and antifragility of decentralization",
+    "authors": [
+     "Roman Pavlov",
+     "Tetiana Pavlova",
+     "Tetyana Grynko",
+     "Oksana Levkovich",
+     "Liudmyla Hordieieva-Herasymova"
+    ],
+    "year": 2026,
+    "venue": "International Journal of Ethics and Systems",
+    "type": "journal-article"
+   }
+  ]
+ },
+ {
+  "query": "Bitcoin's academic pedigree",
+  "matches": [
+   {
+    "doi": "10.21121/eab.20240413",
+    "title": "Bitcoin Price Bubbles and The Factors Driving Bitcoin Price Formation",
+    "authors": [
+     "Murat Akkaya"
+    ],
+    "year": 2024,
+    "venue": "Ege Akademik Bakis (Ege Academic Review)",
+    "type": "journal-article"
+   },
+   {
+    "doi": "10.9756/iajbm/v6i1/1910004",
+    "title": "Bitcoin: The Future Investment",
+    "authors": [
+     "Manoj V. Thomas",
+     "Ashitha Babu P"
+    ],
+    "year": 2019,
+    "venue": "International Academic Journal of Business Management",
+    "type": "journal-article"
+   },
+   {
+    "doi": "10.20472/iac.2019.047.004",
+    "title": "PAIRS TRADING WITH CRYPTO: EVIDENCE FROM BITCOIN",
+    "authors": [
+     "Andy Cheng"
+    ],
+    "year": 2019,
+    "venue": "Proceedings of the 47th International Academic Conference, Prague",
+    "type": "proceedings-article"
+   }
+  ]
+ },
+ {
+  "query": "Discovering Bitcoin's Public Topology and Influential Nodes",
+  "matches": [
+   {
+    "doi": "10.1109/cscwd64889.2025.11033500",
+    "title": "Discovering the P2P Network Layer Topology of Bitcoin Nodes",
+    "authors": [
+     "Youlin Cheng",
+     "Dongmei Song",
+     "Xiang Lu"
+    ],
+    "year": 2025,
+    "venue": "2025 28th International Conference on Computer Supported Cooperative Work in Design (CSCWD)",
+    "type": "proceedings-article"
+   },
+   {
+    "doi": "10.3724/sp.j.1087.2013.01553",
+    "title": "Algorithm for discovering influential nodes in weighted social networks",
+    "authors": [
+     "Zhongming HAN",
+     "Liling YUAN",
+     "Weijie YANG",
+     "Yueliang WAN"
+    ],
+    "year": 2013,
+    "venue": "Journal of Computer Applications",
+    "type": "journal-article"
+   },
+   {
+    "doi": "10.1145/2480362.2480389",
+    "title": "Discovering influential nodes from trust network",
+    "authors": [
+     "Sabbir Ahmed",
+     "C. I. Ezeife"
+    ],
+    "year": 2013,
+    "venue": "Proceedings of the 28th Annual ACM Symposium on Applied Computing",
+    "type": "proceedings-article"
+   }
+  ]
+ },
+ {
+  "query": "Eclipse Attacks on Bitcoin's Peer-to-Peer Network",
+  "matches": [
+   {
+    "doi": "10.14722/ndss.2025.240095",
+    "title": "Eclipse Attacks on Monero's Peer-to-Peer Network",
+    "authors": [
+     "Ruisheng Shi",
+     "Zhiyuan Peng",
+     "Lina Lan",
+     "Yulian Ge",
+     "Peng Liu",
+     "Qin Wang",
+     "Juan Wang"
+    ],
+    "year": 2025,
+    "venue": "Proceedings 2025 Network and Distributed System Security Symposium",
+    "type": "proceedings-article"
+   },
+   {
+    "doi": "10.1109/cns.2014.6997509",
+    "title": "Mitigating Eclipse attacks in Peer-To-Peer networks",
+    "authors": [
+     "Daniel Germanus",
+     "Stefanie Roos",
+     "Thorsten Strufe",
+     "Neeraj Suri"
+    ],
+    "year": 2014,
+    "venue": "2014 IEEE Conference on Communications and Network Security",
+    "type": "proceedings-article"
+   },
+   {
+    "doi": "10.1109/inm.2015.7140490",
+    "title": "A simulation model for analysis of attacks on the Bitcoin peer-to-peer network",
+    "authors": [
+     "Till Neudecker",
+     "Philipp Andelfinger",
+     "Hannes Hartenstein"
+    ],
+    "year": 2015,
+    "venue": "2015 IFIP/IEEE International Symposium on Integrated Network Management (IM)",
+    "type": "proceedings-article"
+   }
+  ]
+ },
+ {
+  "query": "Majority is not enough: Bitcoin mining is vulnerable",
+  "matches": [
+   {
+    "doi": "10.1145/3212998",
+    "title": "Majority is not enough",
+    "authors": [
+     "Ittay Eyal",
+     "Emin Gün Sirer"
+    ],
+    "year": 2018,
+    "venue": "Communications of the ACM",
+    "type": "journal-article"
+   },
+   {
+    "doi": "10.1007/978-3-662-45472-5_28",
+    "title": "Majority Is Not Enough: Bitcoin Mining Is Vulnerable",
+    "authors": [
+     "Ittay Eyal",
+     "Emin Gün Sirer"
+    ],
+    "year": 2014,
+    "venue": "Lecture Notes in Computer Science",
+    "type": "book-chapter"
+   },
+   {
+    "doi": "10.59704/c194664ec391f8b5",
+    "title": "Two-Thirds Majority Is Essential but Not Enough",
+    "authors": [
+     "Tímea Drinóczi"
+    ],
+    "year": 2026,
+    "venue": "",
+    "type": "posted-content"
+   }
+  ]
+ },
+ {
+  "query": "Variabilità e mutabilità",
+  "matches": [
+   {
+    "doi": "10.1007/s10888-011-9187-y",
+    "title": "Lidia Ceriani and Paolo Verme’s paper “The origins of the Gini index: extracts from Variabilità e Mutabilità (1912) by Corrado Gini”",
+    "authors": [
+     "Peter J. Lambert"
+    ],
+    "year": 2011,
+    "venue": "The Journal of Economic Inequality",
+    "type": "journal-article"
+   },
+   {
+    "doi": "10.1007/s10888-011-9188-x",
+    "title": "The origins of the Gini index: extracts from Variabilità e Mutabilità (1912) by Corrado Gini",
+    "authors": [
+     "Lidia Ceriani",
+     "Paolo Verme"
+    ],
+    "year": 2011,
+    "venue": "The Journal of Economic Inequality",
+    "type": "journal-article"
+   },
+   {
+    "doi": "10.1007/978-88-470-1150-2_2",
+    "title": "Variabilità genetica",
+    "authors": [
+     "Bruce R. Korf"
+    ],
+    "year": 2009,
+    "venue": "Genetica e genomica umana",
+    "type": "book-chapter"
+   }
+  ]
+ },
+ {
+  "query": "The Herfindahl-Hirschman Index",
+  "matches": [
+   {
+    "doi": "10.1787/888933953698",
+    "title": "Figure 7.2. Herfindahl Hirschman index of product concentration index of exports, 1995-2017",
+    "authors": [],
+    "year": null,
+    "venue": "",
+    "type": "component"
+   },
+   {
+    "doi": "10.32614/cran.package.hhi",
+    "title": "hhi: Calculate and Visualize the Herfindahl-Hirschman Index",
+    "authors": [
+     ""
+    ],
+    "year": 2018,
+    "venue": "CRAN: Contributed Packages",
+    "type": "dataset"
+   },
+   {
+    "doi": "10.1002/9781118785317.weom080214",
+    "title": "Herfindahl–Hirschman Index",
+    "authors": [
+     "Robert E. McAuliffe"
+    ],
+    "year": 2015,
+    "venue": "Wiley Encyclopedia of Management",
+    "type": "other"
+   }
+  ]
+ },
+ {
+  "query": "Characterizing Bitcoin's peer-to-peer network: An empirical study of unreachable nodes",
+  "matches": [
+   {
+    "doi": "10.1007/s12083-020-00953-y",
+    "title": "An analytical model for churn process in Bitcoin network with ordinary and relay nodes",
+    "authors": [
+     "Saeideh G. Motlagh",
+     "Jelena Mišić",
+     "Vojislav B. Mišić"
+    ],
+    "year": 2020,
+    "venue": "Peer-to-Peer Networking and Applications",
+    "type": "journal-article"
+   },
+   {
+    "doi": "10.31649/2307-5392-2024-2-38-43",
+    "title": "Hybrid multifactor authentication of peer-to-peer network nodes (Eng)",
+    "authors": [
+     "M. D. Krentsin",
+     "L. M. Kupershtein"
+    ],
+    "year": 2024,
+    "venue": "Scientific Works of Vinnytsia National Technical University",
+    "type": "journal-article"
+   },
+   {
+    "doi": "10.1109/blockchain50366.2020.00031",
+    "title": "Improving Bitcoin Transaction Propagation by Leveraging Unreachable Nodes",
+    "authors": [
+     "Federico Franzoni",
+     "Vanesa Daza"
+    ],
+    "year": 2020,
+    "venue": "2020 IEEE International Conference on Blockchain (Blockchain)",
+    "type": "proceedings-article"
+   }
+  ]
+ },
+ {
+  "query": "Towards Better Understanding of Bitcoin Unreachable Peers",
+  "matches": [
+   {
+    "doi": "10.1109/blockchain50366.2020.00031",
+    "title": "Improving Bitcoin Transaction Propagation by Leveraging Unreachable Nodes",
+    "authors": [
+     "Federico Franzoni",
+     "Vanesa Daza"
+    ],
+    "year": 2020,
+    "venue": "2020 IEEE International Conference on Blockchain (Blockchain)",
+    "type": "proceedings-article"
+   },
+   {
+    "doi": "10.14711/thesis-hdl152444",
+    "title": "Towards Better Understanding of Cycling Aerodynamics",
+    "authors": [
+     "Jiaqi Mao"
+    ],
+    "year": null,
+    "venue": "",
+    "type": "dissertation"
+   },
+   {
+    "doi": "10.2166/9781789064537_ch1",
+    "title": "Editorial: WASH Economics and Financing: towards a better understanding of costs and benefits",
+    "authors": [
+     "Britta Augsburg",
+     "Tristano Sainati"
+    ],
+    "year": 2021,
+    "venue": "WASH Economics and Financing: towards a better understanding of costs and benefits",
+    "type": "book-chapter"
+   }
+  ]
+ },
+ {
+  "query": "SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies",
+  "matches": [
+   {
+    "doi": "10.1109/sp.2015.14",
+    "title": "SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies",
+    "authors": [
+     "Joseph Bonneau",
+     "Andrew Miller",
+     "Jeremy Clark",
+     "Arvind Narayanan",
+     "Joshua A. Kroll",
+     "Edward W. Felten"
+    ],
+    "year": 2015,
+    "venue": "2015 IEEE Symposium on Security and Privacy",
+    "type": "proceedings-article"
+   },
+   {
+    "doi": "10.18004/pdfce/2076-054x/2019.025.49.130-142",
+    "title": "Cryptocurrencies: Evolution, growth and perspectives of Bitcoin",
+    "authors": [
+     "Luis Javier Álvarez-Díaz"
+    ],
+    "year": 2019,
+    "venue": "Población y Desarrollo",
+    "type": "journal-article"
+   },
+   {
+    "doi": "10.1201/9780429325533-18",
+    "title": "Crime, Criminals and Cryptocurrencies",
+    "authors": [
+     "Niaz Chowdhury"
+    ],
+    "year": 2019,
+    "venue": "Inside Blockchain, Bitcoin, and Cryptocurrencies",
+    "type": "book-chapter"
+   }
+  ]
+ },
+ {
+  "query": "Erlay: Efficient Transaction Relay for Bitcoin",
+  "matches": [
+   {
+    "doi": "10.1145/3319535.3354237",
+    "title": "Erlay",
+    "authors": [
+     "Gleb Naumenko",
+     "Gregory Maxwell",
+     "Pieter Wuille",
+     "Alexandra Fedorova",
+     "Ivan Beschastnikh"
+    ],
+    "year": 2019,
+    "venue": "Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications Security",
+    "type": "proceedings-article"
+   },
+   {
+    "doi": "10.1109/globecom42002.2020.9322130",
+    "title": "Making Transaction Propagation More Efficient: Deferred Transaction Relay in Bitcoin",
+    "authors": [
+     "Vojislav B. Misic",
+     "Jelena Misii",
+     "Xiaolin Chang"
+    ],
+    "year": 2020,
+    "venue": "GLOBECOM 2020 - 2020 IEEE Global Communications Conference",
+    "type": "proceedings-article"
+   },
+   {
+    "doi": "10.14711/thesis-991012763467503412",
+    "title": "Randomized transaction broadcasting mechanism for bitcoin",
+    "authors": [
+     "Chuming Dai"
+    ],
+    "year": null,
+    "venue": "",
+    "type": "dissertation"
+   }
+  ]
+ },
+ {
+  "query": "Cloud provider connectivity in the flat Internet",
+  "matches": [
+   {
+    "doi": "10.1145/3419394.3423613",
+    "title": "Cloud Provider Connectivity in the Flat Internet",
+    "authors": [
+     "Todd Arnold",
+     "Jia He",
+     "Weifan Jiang",
+     "Matt Calder",
+     "Italo Cunha",
+     "Vasileios Giotsas",
+     "Ethan Katz-Bassett"
+    ],
+    "year": 2020,
+    "venue": "Proceedings of the ACM Internet Measurement Conference",
+    "type": "proceedings-article"
+   },
+   {
+    "doi": "10.1145/3487552.3487818",
+    "title": "Corrigendum",
+    "authors": [
+     "Todd Arnold",
+     "Jia He",
+     "Weifan Jiang",
+     "Matt Calder",
+     "Italo Cunha",
+     "Vasileios Giotsas",
+     "Ethan Katz-Bassett"
+    ],
+    "year": 2021,
+    "venue": "Proceedings of the 21st ACM Internet Measurement Conference",
+    "type": "proceedings-article"
+   },
+   {
+    "doi": "10.3030/874313",
+    "title": "",
+    "authors": [],
+    "year": 2019,
+    "venue": "",
+    "type": "grant"
+   }
+  ]
+ },
+ {
+  "query": "A First Look at the Network Infrastructure of Ethereum Nodes",
+  "matches": [
+   {
+    "doi": "10.23919/ccc64809.2025.11178328",
+    "title": "High Degree Nodes Connectivity Preference on Ethereum Transaction Network",
+    "authors": [
+     "Tianxun Liang",
+     "Zhihai Rong"
+    ],
+    "year": 2025,
+    "venue": "2025 44th Chinese Control Conference (CCC)",
+    "type": "proceedings-article"
+   },
+   {
+    "doi": "10.23919/apnoms50412.2020.9236965",
+    "title": "Analysis of Ethereum Network Properties and Behavior of Influential Nodes",
+    "authors": [
+     "Soo Hoon Maeng",
+     "Meryam Essaid",
+     "Hong Taek Ju"
+    ],
+    "year": 2020,
+    "venue": "2020 21st Asia-Pacific Network Operations and Management Symposium (APNOMS)",
+    "type": "proceedings-article"
+   },
+   {
+    "doi": "10.7717/peerj-cs.3445/fig-1",
+    "title": "Figure 1: (A) Partial Ethereum transaction subgraph. (B) Cumulative degree distribution of Ethereum accounts. Most nodes have low degrees, while a few serve as hubs.",
+    "authors": [],
+    "year": null,
+    "venue": "",
+    "type": "component"
+   }
+  ]
+ },
+ {
+  "query": "Geolocation accuracy of IP databases",
+  "matches": [
+   {
+    "doi": "10.1109/balkancom58402.2023.10167899",
+    "title": "Accuracy and Coverage Analysis of IP Geolocation Databases",
+    "authors": [
+     "Abdullah Yasin Nur"
+    ],
+    "year": 2023,
+    "venue": "2023 International Balkan Conference on Communications and Networking (BalkanCom)",
+    "type": "proceedings-article"
+   },
+   {
+    "doi": "10.5755/j01.itc.46.3.14451",
+    "title": "Location Accuracy of Commercial IP Address Geolocation Databases",
+    "authors": [
+     "Dan Komosny",
+     "Miroslav Voznak",
+     "Saeed Ur Rehman"
+    ],
+    "year": 2017,
+    "venue": "Information Technology and Control",
+    "type": "journal-article"
+   },
+   {
+    "doi": "10.1109/isncc49221.2020.9297175",
+    "title": "A Web Client Perspective on IP Geolocation Accuracy",
+    "authors": [
+     "Joel Sommers"
+    ],
+    "year": 2020,
+    "venue": "2020 International Symposium on Networks, Computers and Communications (ISNCC)",
+    "type": "proceedings-article"
+   }
+  ]
+ },
+ {
+  "query": "IP geolocation databases: unreliable?",
+  "matches": [
+   {
+    "doi": "10.1145/1971162.1971171",
+    "title": "IP geolocation databases",
+    "authors": [
+     "Ingmar Poese",
+     "Steve Uhlig",
+     "Mohamed Ali Kaafar",
+     "Benoit Donnet",
+     "Bamba Gueye"
+    ],
+    "year": 2011,
+    "venue": "ACM SIGCOMM Computer Communication Review",
+    "type": "journal-article"
+   },
+   {
+    "doi": "10.1109/balkancom58402.2023.10167899",
+    "title": "Accuracy and Coverage Analysis of IP Geolocation Databases",
+    "authors": [
+     "Abdullah Yasin Nur"
+    ],
+    "year": 2023,
+    "venue": "2023 International Balkan Conference on Communications and Networking (BalkanCom)",
+    "type": "proceedings-article"
+   },
+   {
+    "doi": "10.5755/j01.itc.46.3.14451",
+    "title": "Location Accuracy of Commercial IP Address Geolocation Databases",
+    "authors": [
+     "Dan Komosny",
+     "Miroslav Voznak",
+     "Saeed Ur Rehman"
+    ],
+    "year": 2017,
+    "venue": "Information Technology and Control",
+    "type": "journal-article"
+   }
+  ]
+ },
+ {
+  "query": "Inferring the deployment of top domains over public clouds using DNS data",
+  "matches": [
+   {
+    "doi": "10.23919/tma.2019.8784472",
+    "title": "Inferring the Deployment of Top Domains over Public Clouds using DNS Data",
+    "authors": [
+     "Quentin Jacquemart",
+     "Clement Pigout",
+     "Guillaume Urvoy-Keller"
+    ],
+    "year": 2019,
+    "venue": "2019 Network Traffic Measurement and Analysis Conference (TMA)",
+    "type": "proceedings-article"
+   },
+   {
+    "doi": "10.1145/3404868.3406668",
+    "title": "Inferring the Deployment of Inbound Source Address Validation Using DNS Resolvers",
+    "authors": [
+     "Maciej Korczyński",
+     "Yevheniya Nosyk",
+     "Qasim Lone",
+     "Marcin Skwarek",
+     "Baptiste Jonglez",
+     "Andrzej Duda"
+    ],
+    "year": 2020,
+    "venue": "Proceedings of the Applied Networking Research Workshop",
+    "type": "proceedings-article"
+   },
+   {
+    "doi": "10.4337/9781786435149.00012",
+    "title": "A global ‘private’ regime governing the Domain Name System (DNS)",
+    "authors": [],
+    "year": 2019,
+    "venue": "Generic Top-Level Domains",
+    "type": "book-chapter"
+   }
+  ]
+ },
+ {
+  "query": "Decentralization of Ethereum's validator set",
+  "matches": [
+   {
+    "doi": "10.55277/researchhub.scgggvas",
+    "title": "Quantifying  Ethereum network Decentralization",
+    "authors": [
+     "Sufyan Ansari"
+    ],
+    "year": 2026,
+    "venue": "",
+    "type": "report"
+   },
+   {
+    "doi": "10.21203/rs.3.rs-4688422/v1",
+    "title": "The Impact of Connectivity and Software in Ethereum Validator Performance",
+    "authors": [
+     "Mikel Cortes-Goicoechea",
+     "Tarun Mohandas-Daryanani",
+     "Jose Luis Muñoz-Tapia",
+     "Leonardo Bautista-Gomez"
+    ],
+    "year": 2024,
+    "venue": "",
+    "type": "posted-content"
+   },
+   {
+    "doi": "10.1007/978-1-4842-9045-3_6",
+    "title": "Decentralization",
+    "authors": [
+     "Jamie Rumbelow"
+    ],
+    "year": 2023,
+    "venue": "Building With Ethereum",
+    "type": "book-chapter"
+   }
+  ]
+ },
+ {
+  "query": "Blockchain decentralization measurement",
+  "matches": [
+   {
+    "doi": "10.4337/9781800885530.00010",
+    "title": "Decentralization?",
+    "authors": [
+     "Thibault Schrepel"
+    ],
+    "year": 2021,
+    "venue": "Blockchain + Antitrust",
+    "type": "book-chapter"
+   },
+   {
+    "doi": "10.4337/9781800885530.00017",
+    "title": "Blockchain power",
+    "authors": [
+     "Thibault Schrepel"
+    ],
+    "year": 2021,
+    "venue": "Blockchain + Antitrust",
+    "type": "book-chapter"
+   },
+   {
+    "doi": "10.4337/9781800885530.00005",
+    "title": "Introduction: the decentralization formula",
+    "authors": [
+     "Thibault Schrepel"
+    ],
+    "year": 2021,
+    "venue": "Blockchain + Antitrust",
+    "type": "book-chapter"
+   }
+  ]
+ },
+ {
+  "query": "How decentralized is the Bitcoin network",
+  "matches": [
+   {
+    "doi": "10.2139/ssrn.3360319",
+    "title": "How to Regulate Bitcoin? Decentralized Regulation for a Decentralized Cryptocurrency",
+    "authors": [
+     "Hossein Nabilou"
+    ],
+    "year": 2019,
+    "venue": "SSRN Electronic Journal",
+    "type": "journal-article"
+   },
+   {
+    "doi": "10.2139/ssrn.3142022",
+    "title": "An Equilibrium Valuation of Bitcoin and Decentralized Network Assets",
+    "authors": [
+     "Emiliano Pagnotta",
+     "Andrea Buraschi"
+    ],
+    "year": 2018,
+    "venue": "",
+    "type": "posted-content"
+   },
+   {
+    "doi": "10.1093/ijlit/eaz008",
+    "title": "How to regulate bitcoin? Decentralized regulation for a decentralized cryptocurrency",
+    "authors": [
+     "Hossein Nabilou"
+    ],
+    "year": 2019,
+    "venue": "International Journal of Law and Information Technology",
+    "type": "journal-article"
+   }
+  ]
+ },
+ {
+  "query": "Characterizing the Bitcoin network infrastructure",
+  "matches": [
+   {
+    "doi": "10.1002/nem.2230",
+    "title": "Characterizing the Bitcoin network topology with Node‐Probe",
+    "authors": [
+     "Meryam Essaid",
+     "Changhyun Lee",
+     "Hongteak Ju"
+    ],
+    "year": 2023,
+    "venue": "International Journal of Network Management",
+    "type": "journal-article"
+   },
+   {
+    "doi": "10.1109/icbc48266.2020.9169449",
+    "title": "Characterizing Orphan Transactions in the Bitcoin Network",
+    "authors": [
+     "Muhammad Anas Imtiaz",
+     "David Starobinski",
+     "Ari Trachtenberg"
+    ],
+    "year": 2020,
+    "venue": "2020 IEEE International Conference on Blockchain and Cryptocurrency (ICBC)",
+    "type": "proceedings-article"
+   },
+   {
+    "doi": "10.1109/lcn52139.2021.9524930",
+    "title": "Blockchain Layer Zero: Characterizing the Bitcoin Network through Measurements, Models, and Simulations",
+    "authors": [
+     "Elias Rohrer",
+     "Florian Tschorsch"
+    ],
+    "year": 2021,
+    "venue": "2021 IEEE 46th Conference on Local Computer Networks (LCN)",
+    "type": "proceedings-article"
+   }
+  ]
+ },
+ {
+  "query": "Bitcoin: A Peer-to-Peer Electronic Cash System",
+  "matches": [
+   {
+    "doi": "10.2139/ssrn.4993270",
+    "title": "Bitcoin: A Peer-to-Peer Electronic Cash System",
+    "authors": [
+     "Noel Portillo"
+    ],
+    "year": 2024,
+    "venue": "",
+    "type": "posted-content"
+   },
+   {
+    "doi": "10.2139/ssrn.3977007",
+    "title": "Bitcoin: A Peer-to-Peer Electronic Cash System",
+    "authors": [
+     "Spongebob Squarepants"
+    ],
+    "year": 2022,
+    "venue": "",
+    "type": "posted-content"
+   },
+   {
+    "doi": "10.2139/ssrn.3440802",
+    "title": "Bitcoin: A Peer-to-Peer Electronic Cash System",
+    "authors": [
+     "Satoshi Nakamoto"
+    ],
+    "year": 2019,
+    "venue": "",
+    "type": "posted-content"
+   }
+  ]
+ },
+ {
+  "query": "Low-Resource Eclipse Attacks on Ethereum's Peer-to-Peer Network",
+  "matches": [
+   {
+    "doi": "10.14722/ndss.2025.240095",
+    "title": "Eclipse Attacks on Monero's Peer-to-Peer Network",
+    "authors": [
+     "Ruisheng Shi",
+     "Zhiyuan Peng",
+     "Lina Lan",
+     "Yulian Ge",
+     "Peng Liu",
+     "Qin Wang",
+     "Juan Wang"
+    ],
+    "year": 2025,
+    "venue": "Proceedings 2025 Network and Distributed System Security Symposium",
+    "type": "proceedings-article"
+   },
+   {
+    "doi": "10.1109/cns.2014.6997509",
+    "title": "Mitigating Eclipse attacks in Peer-To-Peer networks",
+    "authors": [
+     "Daniel Germanus",
+     "Stefanie Roos",
+     "Thorsten Strufe",
+     "Neeraj Suri"
+    ],
+    "year": 2014,
+    "venue": "2014 IEEE Conference on Communications and Network Security",
+    "type": "proceedings-article"
+   },
+   {
+    "doi": "10.1145/3774904.3792231",
+    "title": "Eclipse Attacks on Ethereum's Peer-to-Peer Network",
+    "authors": [
+     "Ruisheng Shi",
+     "Yuxuan Liang",
+     "Zijun Guo",
+     "Qin Wang",
+     "Lina Lan",
+     "Chenfeng Wang",
+     "Zhuoyi Zheng"
+    ],
+    "year": 2026,
+    "venue": "Proceedings of the ACM Web Conference 2026",
+    "type": "proceedings-article"
+   }
+  ]
+ },
+ {
+  "query": "Mitigating eclipse attacks in peer-to-peer networks",
+  "matches": [
+   {
+    "doi": "10.1109/cns.2014.6997509",
+    "title": "Mitigating Eclipse attacks in Peer-To-Peer networks",
+    "authors": [
+     "Daniel Germanus",
+     "Stefanie Roos",
+     "Thorsten Strufe",
+     "Neeraj Suri"
+    ],
+    "year": 2014,
+    "venue": "2014 IEEE Conference on Communications and Network Security",
+    "type": "proceedings-article"
+   },
+   {
+    "doi": "10.1007/s12083-025-02001-z",
+    "title": "Mitigating DDoS attacks on the internet of things using federated learning",
+    "authors": [
+     "Ghazaleh Shirvani",
+     "Saeid Ghasemshirazi",
+     "Mohammad Abdollahi Azgomi"
+    ],
+    "year": 2025,
+    "venue": "Peer-to-Peer Networking and Applications",
+    "type": "journal-article"
+   },
+   {
+    "doi": "10.14722/ndss.2025.240095",
+    "title": "Eclipse Attacks on Monero's Peer-to-Peer Network",
+    "authors": [
+     "Ruisheng Shi",
+     "Zhiyuan Peng",
+     "Lina Lan",
+     "Yulian Ge",
+     "Peng Liu",
+     "Qin Wang",
+     "Juan Wang"
+    ],
+    "year": 2025,
+    "venue": "Proceedings 2025 Network and Distributed System Security Symposium",
+    "type": "proceedings-article"
+   }
+  ]
+ },
+ {
+  "query": "Revisiting Bitcoin's network: unreachable nodes",
+  "matches": [
+   {
+    "doi": "10.1109/blockchain50366.2020.00031",
+    "title": "Improving Bitcoin Transaction Propagation by Leveraging Unreachable Nodes",
+    "authors": [
+     "Federico Franzoni",
+     "Vanesa Daza"
+    ],
+    "year": 2020,
+    "venue": "2020 IEEE International Conference on Blockchain (Blockchain)",
+    "type": "proceedings-article"
+   },
+   {
+    "doi": "10.1007/978-3-030-02641-7_13",
+    "title": "A New Approach to Deanonymization of Unreachable Bitcoin Nodes",
+    "authors": [
+     "Indra Deep Mastan",
+     "Souradyuti Paul"
+    ],
+    "year": 2018,
+    "venue": "Lecture Notes in Computer Science",
+    "type": "book-chapter"
+   },
+   {
+    "doi": "10.1007/978-1-4842-5522-3_8",
+    "title": "Bitcoin Practice",
+    "authors": [
+     "Harris Brakmić"
+    ],
+    "year": 2019,
+    "venue": "Bitcoin and Lightning Network on Raspberry Pi",
+    "type": "book-chapter"
+   }
+  ]
+ },
+ {
+  "query": "Measuring the Concentration of Control in Contemporary Ethereum",
+  "matches": [
+   {
+    "doi": "10.2139/ssrn.7161739",
+    "title": "From Concentration to Control: Measuring the Architecture of Capital Centralisation",
+    "authors": [
+     "Nicolo Bellanca"
+    ],
+    "year": 2026,
+    "venue": "",
+    "type": "posted-content"
+   },
+   {
+    "doi": "10.2139/ssrn.4691000",
+    "title": "Decentralized Crypto Governance? Transparency and Concentration in Ethereum Decision-Making",
+    "authors": [
+     "Cesare Fracassi",
+     "Moazzam Khoja",
+     "Fabian Schär"
+    ],
+    "year": 2024,
+    "venue": "",
+    "type": "posted-content"
+   },
+   {
+    "doi": "10.2139/ssrn.5395177",
+    "title": "Ethereum Layer 2 Scaling Solutions: A Comprehensive Security Analysis of Contemporary Approaches",
+    "authors": [
+     "Soumyajit Sarkar"
+    ],
+    "year": 2025,
+    "venue": "",
+    "type": "posted-content"
+   }
+  ]
+ },
+ {
+  "query": "What Peer Announcements Tell Us About the Size of the Bitcoin P2P Network",
+  "matches": [
+   {
+    "doi": "10.1007/978-3-031-18283-9_35",
+    "title": "Short Paper: What Peer Announcements Tell Us About the Size of the Bitcoin P2P Network",
+    "authors": [
+     "Matthias Grundmann",
+     "Hedwig Amberg",
+     "Max Baumstark",
+     "Hannes Hartenstein"
+    ],
+    "year": 2022,
+    "venue": "Lecture Notes in Computer Science",
+    "type": "book-chapter"
+   },
+   {
+    "doi": "10.2139/ssrn.2193044",
+    "title": "What Do Earnings Announcements Tell Us about Investor Learning in Financial Markets?",
+    "authors": [
+     "Stefan Menssink",
+     "Carsten Murawski"
+    ],
+    "year": 2012,
+    "venue": "",
+    "type": "posted-content"
+   },
+   {
+    "doi": "10.2139/ssrn.2339825",
+    "title": "What Do Chinese Macro Announcements Tell Us About the World Economy?",
+    "authors": [
+     "Christopher (Kit) F. Baum",
+     "Alexander Kurov",
+     "Marketa Wolfe"
+    ],
+    "year": 2013,
+    "venue": "",
+    "type": "posted-content"
+   }
+  ]
+ },
+ {
+  "query": "Estimating the Peer Degree of Reachable Peers in the Bitcoin P2P Network",
+  "matches": [
+   {
+    "doi": "10.1109/icbc54727.2022.9805511",
+    "title": "On the Peer Degree Distribution of the Bitcoin P2P Network",
+    "authors": [
+     "Matthias Grundmann",
+     "Max Baumstark",
+     "Hannes Hartenstein"
+    ],
+    "year": 2022,
+    "venue": "2022 IEEE International Conference on Blockchain and Cryptocurrency (ICBC)",
+    "type": "proceedings-article"
+   },
+   {
+    "doi": "10.54569/aair.1608702",
+    "title": "ALTO-assisted Peer Selection in Bitcoin P2P Network",
+    "authors": [
+     "Cihat Çetinkaya"
+    ],
+    "year": 2024,
+    "venue": "Advances in Artificial Intelligence Research",
+    "type": "journal-article"
+   },
+   {
+    "doi": "10.1007/s12083-021-01241-z",
+    "title": "Clover: An anonymous transaction relay protocol for the bitcoin P2P network",
+    "authors": [
+     "Federico Franzoni",
+     "Vanesa Daza"
+    ],
+    "year": 2021,
+    "venue": "Peer-to-Peer Networking and Applications",
+    "type": "journal-article"
+   }
+  ]
+ },
+ {
+  "query": "On the Estimation of the Number of Unreachable Peers in the Bitcoin P2P Network by Observation of Peer Announcements",
+  "matches": [
+   {
+    "doi": "10.54569/aair.1608702",
+    "title": "ALTO-assisted Peer Selection in Bitcoin P2P Network",
+    "authors": [
+     "Cihat Çetinkaya"
+    ],
+    "year": 2024,
+    "venue": "Advances in Artificial Intelligence Research",
+    "type": "journal-article"
+   },
+   {
+    "doi": "10.1007/s12083-021-01241-z",
+    "title": "Clover: An anonymous transaction relay protocol for the bitcoin P2P network",
+    "authors": [
+     "Federico Franzoni",
+     "Vanesa Daza"
+    ],
+    "year": 2021,
+    "venue": "Peer-to-Peer Networking and Applications",
+    "type": "journal-article"
+   },
+   {
+    "doi": "10.1109/icbc54727.2022.9805511",
+    "title": "On the Peer Degree Distribution of the Bitcoin P2P Network",
+    "authors": [
+     "Matthias Grundmann",
+     "Max Baumstark",
+     "Hannes Hartenstein"
+    ],
+    "year": 2022,
+    "venue": "2022 IEEE International Conference on Blockchain and Cryptocurrency (ICBC)",
+    "type": "proceedings-article"
+   }
+  ]
+ }
+]

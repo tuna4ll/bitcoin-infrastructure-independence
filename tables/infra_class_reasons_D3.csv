@@ -1,0 +1,7 @@
+infra_class,class_reason,nodes,share
+H2,peeringdb-content,2526,0.281951110615024
+H2,curated-list,1099,0.12266994084161179
+H2,name-regex,148,0.016519700859470923
+R,apnic-users,4568,0.509878334635562
+R,peeringdb-isp,68,0.007590132827324478
+U,unmatched,515,0.05748409420694274

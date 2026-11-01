@@ -1,0 +1,50 @@
+Q: Decentralization in Bitcoin and Ethereum Networks
+   -> Decentralization in Bitcoin and Ethereum Networks | 2018 | 10.1007/978-3-662-58387-6_24 | Gencer, Basu, Eyal, van Renesse, Sirer | Lecture Notes in Computer Science
+   -> Forecasting the Bitcoin Price via Artificial Neural Networks | 2018 | 10.36880/c10.02070 | Sakız, Gencer | International Conference on Eurasian Economies
+Q: The Bitcoin P2P Network
+   -> The Bitcoin P2P Network | 2014 | 10.1007/978-3-662-44774-1_7 | Donet Donet, Pérez-Solà, Herrera-Joancomartí | Lecture Notes in Computer Science
+Q: On Scaling Decentralized Blockchains
+   -> On Scaling Decentralized Blockchains | 2016 | 10.1007/978-3-662-53357-4_8 | Croman, Decker, Eyal, Gencer, Juels | Lecture Notes in Computer Science
+Q: The origins of the Gini index
+   -> The origins of the Gini index: extracts from Variabilità e Mutabilità (1912) by Corrado Gini | 2011 | 10.1007/s10888-011-9188-x | Ceriani, Verme | The Journal of Economic Inequality
+   -> Individual Diversity and the Gini Decomposition | 2014 | 10.1596/1813-9450-6763 | Ceriani, Verme | 
+Q: Discovering Bitcoin's Public Topology and Influential Nodes
+   -> Investigation of influential factors on selecting an engineering major. | None | 10.18297/etd/2817 | Miller | 
+   -> Uneconomic Bitcoin Trades | 2023 | 10.2139/ssrn.4569239 | Miller, McInish | 
+Traceback (most recent call last):
+  File "/home/tuna/Masaüstü/bitcoin-infrastructure-independence/.venv/lib/python3.14/site-packages/requests/models.py", line 1116, in json
+    return complexjson.loads(self.text, **kwargs)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.14/json/__init__.py", line 352, in loads
+    return _default_decoder.decode(s)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "/usr/lib/python3.14/json/decoder.py", line 345, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.14/json/decoder.py", line 363, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "<stdin>", line 19, in <module>
+  File "/usr/lib/python3.14/concurrent/futures/_base.py", line 645, in result_iterator
+    yield _result_or_cancel(fs.pop())
+          ~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/usr/lib/python3.14/concurrent/futures/_base.py", line 312, in _result_or_cancel
+    return fut.result(timeout)
+           ~~~~~~~~~~^^^^^^^^^
+  File "/usr/lib/python3.14/concurrent/futures/_base.py", line 447, in result
+    return self.__get_result()
+           ~~~~~~~~~~~~~~~~~^^
+  File "/usr/lib/python3.14/concurrent/futures/_base.py", line 396, in __get_result
+    raise self._exception
+  File "/usr/lib/python3.14/concurrent/futures/thread.py", line 86, in run
+    result = ctx.run(self.task)
+  File "/usr/lib/python3.14/concurrent/futures/thread.py", line 73, in run
+    return fn(*args, **kwargs)
+  File "<stdin>", line 15, in q
+  File "/home/tuna/Masaüstü/bitcoin-infrastructure-independence/.venv/lib/python3.14/site-packages/requests/models.py", line 1120, in json
+    raise RequestsJSONDecodeError(e.msg, e.doc, e.pos)
+requests.exceptions.JSONDecodeError: Expecting value: line 1 column 1 (char 0)

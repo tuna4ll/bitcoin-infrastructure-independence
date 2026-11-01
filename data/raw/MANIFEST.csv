@@ -1,0 +1,52 @@
+file,url,retrieved_utc,bytes,sha256
+apnic/aspop.json,https://stats.labs.apnic.net/cgi-bin/aspop?c=&f=j,2026-10-04T09:29:45+00:00,8074648,e20ed7eae16a508af0a85d147b66b6cfbb9f2fe2913733ed7cc01dfd02823460
+bitcoin-core/v31.0/net.cpp,https://raw.githubusercontent.com/bitcoin/bitcoin/v31.0/src/net.cpp,2026-10-04T17:12:49+00:00,165893,4e87fcd83bbf09d4b053a72055cb5a78704a3fb027a61f88669805b4d7b0bf97
+bitcoin-core/v31.0/net.h,https://raw.githubusercontent.com/bitcoin/bitcoin/v31.0/src/net.h,2026-10-04T17:12:48+00:00,77728,0ec0c584dab87237aa793ad1975b2fce6baf2a8da1566dd3ca087980289581e9
+bitnodes_snapshot_1791105141.json,https://bitnodes.io/api/v1/snapshots/latest/,2026-10-04T09:25:29+00:00,2690651,fa111a0a9fd507998d325bc0112a2d4268d1d9ea0b1cfae008fe8933dd4004cb
+caida/20260901.as-org2info.jsonl.gz,https://publicdata.caida.org/datasets/as-organizations/20260901.as-org2info.jsonl.gz,2026-10-04T09:29:27+00:00,4617872,8c74912721e0ff8724fd6780cdd2ce7711cb798c357dc14dca5096046199d68d
+caida/all-ip-ranges-20260905.csv,https://publicdata.caida.org/datasets/cloud-prefixes/2026/09/all-ip-ranges-20260905.csv,2026-10-04T09:29:31+00:00,4195297,b7f5d28881e3dd49469818918bca634de607b7bc578db09c34be5eec7fbb39c2
+caida/routeviews-rv2-20260930-1200.pfx2as.gz,https://publicdata.caida.org/datasets/routing/routeviews-prefix2as/2026/09/routeviews-rv2-20260930-1200.pfx2as.gz,2026-10-04T09:29:20+00:00,3877945,322cd4899716ae797e5ce466d3d22b2edea05ada53e207a4e2866ed853d8cb43
+caida/routeviews-rv6-20260930-1200.pfx2as.gz,https://publicdata.caida.org/datasets/routing/routeviews6-prefix2as/2026/09/routeviews-rv6-20260930-1200.pfx2as.gz,2026-10-04T09:29:23+00:00,900886,50c6ce78b43259b0dd08cb5b473468afd2926f65ccc29eb2715ccb0e4dd11839
+cloud/aws-ip-ranges.json,https://ip-ranges.amazonaws.com/ip-ranges.json,2026-10-04T09:29:46+00:00,2703020,6935b1dcac9ec8b67fb7092c19169c498a994d68ed33eb70318aa68110a59e87
+cloud/digitalocean-geo.csv,https://digitalocean.com/geo/google.csv,2026-10-04T09:29:48+00:00,52962,0a98953e92de53d6f40ded22fd3b35bd9e0f03341cec9e05ce68a78ca8f10294
+cloud/gcp-cloud.json,https://www.gstatic.com/ipranges/cloud.json,2026-10-04T09:29:46+00:00,113201,18fd0c7dda68ff67cc0eb6877e4aa09fd6f8a02703da7f1ccba359f0ec16bbcb
+cloud/linode-geofeed.csv,https://geoip.linode.com/,2026-10-04T09:29:49+00:00,192744,90ec3039d4cb51099f4d08e1b8263dbdcc17b54a8bd66e8a48f97a1f3cd64df5
+cloud/oracle-public_ip_ranges.json,https://docs.oracle.com/en-us/iaas/tools/public_ip_ranges.json,2026-10-04T09:29:47+00:00,234112,59e5ba5e92e38f911ce377f1d71c6eaa89ffcf53f9eb4ccd667d9ffca81ead7d
+crawl/crawl_1791106379.jsonl,"own crawl, analysis/02_crawl.py (home vantage point, Türkiye)",2026-10-04T12:33:40+00:00,52295519,d33b17d52cd8fa223134d6bd145f59bb825381838c2133d3f86c1ea86c0015c3
+crawl/crawl_1791106379_meta.json,"own crawl, analysis/02_crawl.py (home vantage point, Türkiye)",2026-10-04T12:33:41+00:00,671,67c037e100c8aa44365c04f5f35e5b8cbea39815f87d5e3873a503813261df73
+crawl/crawl_1791106379_overlay.json,"own crawl, analysis/02_crawl.py (home vantage point, Türkiye)",2026-10-04T12:33:41+00:00,4026768,d40d92ab967e64a2dfbf534276d4f36b0733b0da78e983ce30b78ae3328018c1
+crawl/reprobe_1791117286.jsonl,"own diagnostic re-probe, analysis/02b_reprobe_diagnostic.py (home vantage point)",2026-10-04T12:40:16+00:00,577301,2cebb0c34cef48a5cb382068bd5d69282312e41588aa799d85f3da30719c55b6
+crawl/reprobe_1791117286_meta.json,"own diagnostic re-probe, analysis/02b_reprobe_diagnostic.py (home vantage point)",2026-10-04T12:40:16+00:00,261,ec1c4ddafce3a4e284eabbaa8e023374e267811d25e51ce488b21810ff8f5f89
+crawl_aws/crawl_1791122805.jsonl,"own crawl, analysis/02_crawl.py (AWS EC2 instance, IPv4 only)",2026-10-04T17:10:46+00:00,48053663,fd232d5133ba9c17d43f309e3f735be232a6844caa98daf91955f355d4b72b59
+crawl_aws/crawl_1791122805_meta.json,"own crawl, analysis/02_crawl.py (AWS EC2 instance, IPv4 only)",2026-10-04T17:10:46+00:00,671,e01a248127e90e9c2b6a50d8f4b4b27c8fccad57ce703d82f3b8efb06108673a
+crawl_aws/crawl_1791122805_overlay.json,"own crawl, analysis/02_crawl.py (AWS EC2 instance, IPv4 only)",2026-10-04T17:10:47+00:00,4192082,00e50c7dcce51eb724d4836a1fc74dcf560df01436a2000e21123fb720a60514
+crawl_aws/crawl_stderr.log,"own crawl, analysis/02_crawl.py (AWS EC2 instance, IPv4 only)",2026-10-04T17:11:27+00:00,16019,e1e3b4eeaad6c855bf6e0d7e4cdb712f86763cbd8e613023ed53141587fa7e9b
+crawl_aws/crawl_stdout.log,"own crawl, analysis/02_crawl.py (AWS EC2 instance, IPv4 only)",2026-10-04T17:11:27+00:00,672,208e6268002f1db2349342a438b7b9c6ce41590e3a3ceab3ff29d32d1a0d68a9
+crawl_aws_20261006/bitnodes_snapshot_20261006_1448.json,https://bitnodes.io/api/v1/snapshots/latest/ (downloaded on the AWS instance),2026-10-07T13:04:44+00:00,2723002,1593d9bd89b33bda69e0e91bea62a26b6a939a45cee94e59a4b72317ffb4519b
+crawl_aws_20261006/crawl_1791298118.jsonl,"own crawl, analysis/02_crawl.py (AWS EC2 instance, IPv4 only, 2026-10-06)",2026-10-07T13:04:08+00:00,49273203,4bb6710420fb272b0ee79eecc1495f5c9f52b462897c7ae7a7353b005572d20a
+crawl_aws_20261006/crawl_1791298118_meta.json,"own crawl, analysis/02_crawl.py (AWS EC2 instance, IPv4 only, 2026-10-06)",2026-10-07T13:04:08+00:00,671,7f5ed34016034097a0f6011686d14b00fcb23d3298bdeda42795d333e119256a
+crawl_aws_20261006/crawl_1791298118_overlay.json,"own crawl, analysis/02_crawl.py (AWS EC2 instance, IPv4 only, 2026-10-06)",2026-10-07T13:04:09+00:00,4184876,e99a39559f9de979b6f85da66aebcecd3f43ba095a9b89e09d66c5c7ae959c7d
+crawl_aws_20261006/crawl_stderr.log,"own crawl, analysis/02_crawl.py (AWS EC2 instance, IPv4 only, 2026-10-06)",2026-10-07T13:04:42+00:00,16463,710f62f9ab54d3e31b76b4b19bfd31b84fe3462423a9f71f9b54590ef0c73d25
+crawl_aws_20261006/crawl_stdout.log,"own crawl, analysis/02_crawl.py (AWS EC2 instance, IPv4 only, 2026-10-06)",2026-10-07T13:04:42+00:00,672,6024876b867f3af494b51e4a24ce68db9cca1ded3052a43e5965f7703ba2d81b
+dbip/dbip-country-lite-2026-10.csv.gz,https://download.db-ip.com/free/dbip-country-lite-2026-10.csv.gz,2026-10-04T09:29:45+00:00,4491785,097426b8ddae89157d444a59ac1847e873f7943c32d52becc4371c8b0273af80
+kit/20151001_123237_dossier.json,https://www.dsn.kastel.kit.edu/bitcoin/snapshots/20151001_123237_dossier.json,2026-10-04T09:29:50+00:00,2575397,573daeeeeab4afb88449ad9e94803051ba2036ef28255882f5000499f01177af
+kit/20161001_121139_dossier.json,https://www.dsn.kastel.kit.edu/bitcoin/snapshots/20161001_121139_dossier.json,2026-10-04T09:29:50+00:00,3156925,0adc9079ce7f42bf45adb1bd6a79bffedb0948ee08d428a265b9142687f35417
+kit/20171002_124545_dossier.json,https://www.dsn.kastel.kit.edu/bitcoin/snapshots/20171002_124545_dossier.json,2026-10-04T09:29:51+00:00,5164455,b5e6255806e0aedea6eda73235f056c92dacb42dfa9db3244019dbab19d8ef40
+kit/20181001_123311_dossier.json,https://www.dsn.kastel.kit.edu/bitcoin/snapshots/20181001_123311_dossier.json,2026-10-04T09:29:52+00:00,7326566,96dd6cd0cc88e925cf6072488ea1961ed030d12fe24e3ebad4e40861765e08b2
+kit/20191001_121419_dossier.json,https://www.dsn.kastel.kit.edu/bitcoin/snapshots/20191001_121419_dossier.json,2026-10-04T09:29:53+00:00,7182385,9a1536b1b969c9087ff65b40b201d6a070e020f7afed922ab16edb9ea76cac46
+kit/20201001_124209_dossier.json,https://www.dsn.kastel.kit.edu/bitcoin/snapshots/20201001_124209_dossier.json,2026-10-04T09:29:54+00:00,6101360,2ebc536aab7dde3610021c9713906fd507b4055bf6952e1962dea39931dd16e9
+kit/20211001_122525_dossier.json,https://www.dsn.kastel.kit.edu/bitcoin/snapshots/20211001_122525_dossier.json,2026-10-04T09:29:55+00:00,6608320,11d1e7d140f996d5dbbe89759841902474b027a053d6d3d111dd20f07c301dcc
+kit/20221001_124641_dossier.json,https://www.dsn.kastel.kit.edu/bitcoin/snapshots/20221001_124641_dossier.json,2026-10-04T09:29:56+00:00,5406553,0faa4fc237a9613613ac50c06645908d2135be20419a4a4725f5ccac5eff7662
+kit/20231001_120427_dossier.json,https://www.dsn.kastel.kit.edu/bitcoin/snapshots/20231001_120427_dossier.json,2026-10-04T09:29:57+00:00,4836499,7ca9058d81436113d38f0e1d37e15bd50655ca88861c7c375b5b7381174b5ae1
+kit/20241001_123228_dossier.json,https://www.dsn.kastel.kit.edu/bitcoin/snapshots/20241001_123228_dossier.json,2026-10-04T09:29:58+00:00,5557794,4c3bde40815c4d9fd87956c8d3b7c7aa081d6e9377c72efe096e937d1693a406
+kit/20251001_122751_dossier.json,https://www.dsn.kastel.kit.edu/bitcoin/snapshots/20251001_122751_dossier.json,2026-10-04T09:29:59+00:00,6608834,21e2c5cc901e9941dd29f78e42f7e4a9b5996fb176bc5617beca46a76791bd8c
+kit/20260927_120900_dossier.json,https://www.dsn.kastel.kit.edu/bitcoin/snapshots/20260927_120900_dossier.json,2026-10-04T09:30:01+00:00,6228074,46fba522c3d2df1e83a49504f30d851b395ea8ef54f18e55032f56e440f8b8fe
+kit/20260928_121014_dossier.json,https://www.dsn.kastel.kit.edu/bitcoin/snapshots/20260928_121014_dossier.json,2026-10-04T09:30:02+00:00,6227633,2cfb1d62800183710905b25b8de8ffa8d45ad17c4e44d006494b0b575f526d6d
+kit/20260929_121145_dossier.json,https://www.dsn.kastel.kit.edu/bitcoin/snapshots/20260929_121145_dossier.json,2026-10-04T09:30:02+00:00,6256612,d5e5eb135bf4f4eeec102a4fc9e3ce7aa49714b5401912801ff14d3a793eb0d6
+kit/20260930_121329_dossier.json,https://www.dsn.kastel.kit.edu/bitcoin/snapshots/20260930_121329_dossier.json,2026-10-04T09:30:03+00:00,6241862,c73cbef5c4c2a6300f249151c1929aa5f4fd6b534d3418fd68437599c80e3234
+kit/20261001_121453_dossier.json,https://www.dsn.kastel.kit.edu/bitcoin/snapshots/20261001_121453_dossier.json,2026-10-04T09:30:00+00:00,6267810,a3e586f62660986f07bb3452df39e20da2c3103420ea3f946b5b6e5168d0f38d
+kit/20261002_121620_dossier.json,https://www.dsn.kastel.kit.edu/bitcoin/snapshots/20261002_121620_dossier.json,2026-10-04T09:30:04+00:00,6271159,999c273a1f64417efa6cf9bdc920666467e2aa87d0044e7f4d108ecb57bffeea
+kit/20261003_121755_dossier.json,https://www.dsn.kastel.kit.edu/bitcoin/snapshots/20261003_121755_dossier.json,2026-10-04T09:28:03+00:00,6229327,f44e37bc2b18a01cc140519cc3164fee437d4fcfaedc129c813f396be0474197
+luke_uainfo.json,https://luke.dashjr.org/programs/bitcoin/files/charts/data/uainfo.json,2026-10-04T09:28:38+00:00,49818,fb67870eff4efae21c9ef3698f1702ece03e416a22cadadffaf39ec5a13e9fe7
+peeringdb/net.json,"https://www.peeringdb.com/api/net?fields=asn,name,info_type,info_types,org_id",2026-10-04T09:29:36+00:00,4153459,a0c6524c44857a9a5713a65b540c88b83ab1c46c56eee6e202e7bfcab171704e
+rir/nro-delegated-stats,https://ftp.ripe.net/pub/stats/ripencc/nro-stats/latest/nro-delegated-stats,2026-10-04T09:29:34+00:00,56889335,62ecdcec79a659dd5d12fe3c0ecf6430031ff8ce6fdf38dd38d9e6c98317f65f

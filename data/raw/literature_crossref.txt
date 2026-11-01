@@ -1,0 +1,96 @@
+Q: Information propagation in the Bitcoin network
+   -> Information propagation in the Bitcoin network | 2013 | 10.1109/p2p.2013.6688704 | Christian Decker, Roger Wattenhofer | IEEE P2P 2013 Proceedings
+Q: Hijacking Bitcoin: Routing Attacks on Cryptocurrencies
+   -> Hijacking Bitcoin: Routing Attacks on Cryptocurrencies | 2017 | 10.1109/sp.2017.29 | Maria Apostolaki, Aviv Zohar, Laurent Vanbever | 2017 IEEE Symposium on Security and Privacy (SP)
+Q: Decentralization in Bitcoin and Ethereum Networks
+   -> Measuring Decentralization in Bitcoin and Ethereum using Multiple Metrics and Granularities | 2021 | 10.1109/icdew53142.2021.00022 | Qinwei Lin, Chao Li, Xifeng Zhao, Xianhai Chen | 2021 IEEE 37th International Conference on Data Engineering Workshops (ICDEW)
+Q: Network Layer Aspects of Permissionless Blockchains
+   -> Network Layer Aspects of Permissionless Blockchains | 2019 | 10.1109/comst.2018.2852480 | Till Neudecker, Hannes Hartenstein | IEEE Communications Surveys &amp; Tutorials
+Q: Analyzing the Deployment of Bitcoin's P2P Network under an AS-level Perspective
+   -> Analyzing the Deployment of Bitcoin's P2P Network under an AS-level Perspective | 2014 | 10.1016/j.procs.2014.05.542 | Sebastian Feld, Mirco Schönfeld, Martin Werner | Procedia Computer Science
+Q: The Bitcoin P2P Network
+   -> Information propagation in the Bitcoin network | 2013 | 10.1109/p2p.2013.6688704 | Christian Decker, Roger Wattenhofer | IEEE P2P 2013 Proceedings
+Q: Deanonymisation of clients in Bitcoin P2P network
+   -> Deanonymisation of Clients in Bitcoin P2P Network | 2014 | 10.1145/2660267.2660379 | Alex Biryukov, Dmitry Khovratovich, Ivan Pustogarov | Proceedings of the 2014 ACM SIGSAC Conference on Computer and Communications Security
+Q: Bitcoin over Tor isn't a Good Idea
+   -> Bitcoin over Tor isn't a Good Idea | 2015 | 10.1109/sp.2015.15 | Alex Biryukov, Ivan Pustogarov | 2015 IEEE Symposium on Security and Privacy
+Q: A Stealthier Partitioning Attack against Bitcoin Peer-to-Peer Network
+   -> A Stealthier Partitioning Attack against Bitcoin Peer-to-Peer Network | 2020 | 10.1109/sp40000.2020.00027 | Muoi Tran, Inho Choi, Gi Jun Moon, Anh V. Vu | 2020 IEEE Symposium on Security and Privacy (SP)
+Q: TxProbe: Discovering Bitcoin's Network Topology Using Orphan Transactions
+   -> TxProbe: Discovering Bitcoin’s Network Topology Using Orphan Transactions | 2019 | 10.1007/978-3-030-32101-7_32 | Sergi Delgado-Segura, Surya Bakshi, Cristina Pérez-Solà, James Litton | Lecture Notes in Computer Science
+Q: Timing Analysis for Inferring the Topology of the Bitcoin Peer-to-Peer Network
+   -> Timing Analysis for Inferring the Topology of the Bitcoin Peer-to-Peer Network | 2016 | 10.1109/uic-atc-scalcom-cbdcom-iop-smartworld.2016.0070 | Till Neudecker, Philipp Andelfinger, Hannes Hartenstein | 2016 Intl IEEE Conferences on Ubiquitous Intelligence &amp; Computing, Advanced and Trusted Computing, Scalable Computing and Communications, Cloud and Big Data Computing, Internet of People, and Smart World Congress (UIC/ATC/ScalCom/CBDCom/IoP/SmartWorld)
+Q: Impossibility of Full Decentralization in Permissionless Blockchains
+   -> Impossibility of Full Decentralization in Permissionless Blockchains | 2019 | 10.1145/3318041.3355463 | Yujin Kwon, Jian Liu, Minjeong Kim, Dawn Song | Proceedings of the 1st ACM Conference on Advances in Financial Technologies
+Q: Taxonomy of centralization in public blockchain systems: A systematic literature review
+   -> Taxonomy of centralization in public blockchain systems: A systematic literature review | 2021 | 10.1016/j.ipm.2021.102584 | Ashish Rajendra Sai, Jim Buckley, Brian Fitzgerald, Andrew Le Gear | Information Processing &amp; Management
+Q: ASdb: a system for classifying owners of autonomous systems
+   -> ASdb | 2021 | 10.1145/3487552.3487853 | Maya Ziv, Liz Izhikevich, Kimberly Ruth, Katherine Izhikevich | Proceedings of the 21st ACM Internet Measurement Conference
+Q: Analyzing third party service dependencies in modern web services: have we learned from the mirai-dyn incident?
+   -> Analyzing Third Party Service Dependencies in Modern Web Services | 2020 | 10.1145/3419394.3423664 | Aqsa Kashaf, Vyas Sekar, Yuvraj Agarwal | Proceedings of the ACM Internet Measurement Conference
+Q: Measuring Ethereum Network Peers
+   -> Measuring Ethereum Network Peers | 2018 | 10.1145/3278532.3278542 | Seoung Kyun Kim, Zane Ma, Siddharth Murali, Joshua Mason | Proceedings of the Internet Measurement Conference 2018
+Q: Nodes in the Bitcoin Network: Comparative Measurement Study and Survey
+   -> Nodes in the Bitcoin Network: Comparative Measurement Study and Survey | 2019 | 10.1109/access.2019.2914098 | Sehyun Park, Seongwon Im, Youhwan Seol, Jeongyeup Paek | IEEE Access
+Q: On Scaling Decentralized Blockchains
+   -> Decentralized Finance Analysis and Blockchains | 2026 | 10.1201/9781003596400-10 | Nirdosh Bhatnagar | Mathematical Foundations of Blockchains
+Q: Partitioning Attacks on Bitcoin: Colliding Space, Time, and Logic
+   -> Partitioning Attacks on Bitcoin: Colliding Space, Time, and Logic | 2019 | 10.1109/icdcs.2019.00119 | Muhammad Saad, Victor Cook, Lan Nguyen, My T. Thai | 2019 IEEE 39th International Conference on Distributed Computing Systems (ICDCS)
+Q: On the Peer Degree Distribution of the Bitcoin P2P Network
+   -> On the Peer Degree Distribution of the Bitcoin P2P Network | 2022 | 10.1109/icbc54727.2022.9805511 | Matthias Grundmann, Max Baumstark, Hannes Hartenstein | 2022 IEEE International Conference on Blockchain and Cryptocurrency (ICBC)
+Q: Measuring Decentralization in Bitcoin and Ethereum using Multiple Metrics and Granularities
+   -> Measuring Decentralization in Bitcoin and Ethereum using Multiple Metrics and Granularities | 2021 | 10.1109/icdew53142.2021.00022 | Qinwei Lin, Chao Li, Xifeng Zhao, Xianhai Chen | 2021 IEEE 37th International Conference on Data Engineering Workshops (ICDEW)
+Q: Bitcoin's academic pedigree
+   -> Bitcoin Price Bubbles and The Factors Driving Bitcoin Price Formation | 2024 | 10.21121/eab.20240413 | Murat Akkaya | Ege Akademik Bakis (Ege Academic Review)
+Q: Discovering Bitcoin's Public Topology and Influential Nodes
+   -> Discovering the P2P Network Layer Topology of Bitcoin Nodes | 2025 | 10.1109/cscwd64889.2025.11033500 | Youlin Cheng, Dongmei Song, Xiang Lu | 2025 28th International Conference on Computer Supported Cooperative Work in Design (CSCWD)
+Q: Eclipse Attacks on Bitcoin's Peer-to-Peer Network
+   -> Eclipse Attacks on Monero's Peer-to-Peer Network | 2025 | 10.14722/ndss.2025.240095 | Ruisheng Shi, Zhiyuan Peng, Lina Lan, Yulian Ge | Proceedings 2025 Network and Distributed System Security Symposium
+Q: Majority is not enough: Bitcoin mining is vulnerable
+   -> Majority is not enough | 2018 | 10.1145/3212998 | Ittay Eyal, Emin Gün Sirer | Communications of the ACM
+Q: Variabilità e mutabilità
+   -> Lidia Ceriani and Paolo Verme’s paper “The origins of the Gini index: extracts from Variabilità e Mutabilità (1912) by Corrado Gini” | 2011 | 10.1007/s10888-011-9187-y | Peter J. Lambert | The Journal of Economic Inequality
+Q: The Herfindahl-Hirschman Index
+   -> Figure 7.2. Herfindahl Hirschman index of product concentration index of exports, 1995-2017 | None | 10.1787/888933953698 |  | 
+Q: Characterizing Bitcoin's peer-to-peer network: An empirical study of unreachable nodes
+   -> An analytical model for churn process in Bitcoin network with ordinary and relay nodes | 2020 | 10.1007/s12083-020-00953-y | Saeideh G. Motlagh, Jelena Mišić, Vojislav B. Mišić | Peer-to-Peer Networking and Applications
+Q: Towards Better Understanding of Bitcoin Unreachable Peers
+   -> Improving Bitcoin Transaction Propagation by Leveraging Unreachable Nodes | 2020 | 10.1109/blockchain50366.2020.00031 | Federico Franzoni, Vanesa Daza | 2020 IEEE International Conference on Blockchain (Blockchain)
+Q: SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies
+   -> SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies | 2015 | 10.1109/sp.2015.14 | Joseph Bonneau, Andrew Miller, Jeremy Clark, Arvind Narayanan | 2015 IEEE Symposium on Security and Privacy
+Q: Erlay: Efficient Transaction Relay for Bitcoin
+   -> Erlay | 2019 | 10.1145/3319535.3354237 | Gleb Naumenko, Gregory Maxwell, Pieter Wuille, Alexandra Fedorova | Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications Security
+Q: Cloud provider connectivity in the flat Internet
+   -> Cloud Provider Connectivity in the Flat Internet | 2020 | 10.1145/3419394.3423613 | Todd Arnold, Jia He, Weifan Jiang, Matt Calder | Proceedings of the ACM Internet Measurement Conference
+Q: A First Look at the Network Infrastructure of Ethereum Nodes
+   -> High Degree Nodes Connectivity Preference on Ethereum Transaction Network | 2025 | 10.23919/ccc64809.2025.11178328 | Tianxun Liang, Zhihai Rong | 2025 44th Chinese Control Conference (CCC)
+Q: Geolocation accuracy of IP databases
+   -> Accuracy and Coverage Analysis of IP Geolocation Databases | 2023 | 10.1109/balkancom58402.2023.10167899 | Abdullah Yasin Nur | 2023 International Balkan Conference on Communications and Networking (BalkanCom)
+Q: IP geolocation databases: unreliable?
+   -> IP geolocation databases | 2011 | 10.1145/1971162.1971171 | Ingmar Poese, Steve Uhlig, Mohamed Ali Kaafar, Benoit Donnet | ACM SIGCOMM Computer Communication Review
+Q: Inferring the deployment of top domains over public clouds using DNS data
+   -> Inferring the Deployment of Top Domains over Public Clouds using DNS Data | 2019 | 10.23919/tma.2019.8784472 | Quentin Jacquemart, Clement Pigout, Guillaume Urvoy-Keller | 2019 Network Traffic Measurement and Analysis Conference (TMA)
+Q: Decentralization of Ethereum's validator set
+   -> Quantifying  Ethereum network Decentralization | 2026 | 10.55277/researchhub.scgggvas | Sufyan Ansari | 
+Q: Blockchain decentralization measurement
+   -> Decentralization? | 2021 | 10.4337/9781800885530.00010 | Thibault Schrepel | Blockchain + Antitrust
+Q: How decentralized is the Bitcoin network
+   -> How to Regulate Bitcoin? Decentralized Regulation for a Decentralized Cryptocurrency | 2019 | 10.2139/ssrn.3360319 | Hossein Nabilou | SSRN Electronic Journal
+Q: Characterizing the Bitcoin network infrastructure
+   -> Characterizing the Bitcoin network topology with Node‐Probe | 2023 | 10.1002/nem.2230 | Meryam Essaid, Changhyun Lee, Hongteak Ju | International Journal of Network Management
+Q: Bitcoin: A Peer-to-Peer Electronic Cash System
+   -> Bitcoin: A Peer-to-Peer Electronic Cash System | 2024 | 10.2139/ssrn.4993270 | Noel Portillo | 
+Q: Low-Resource Eclipse Attacks on Ethereum's Peer-to-Peer Network
+   -> Eclipse Attacks on Monero's Peer-to-Peer Network | 2025 | 10.14722/ndss.2025.240095 | Ruisheng Shi, Zhiyuan Peng, Lina Lan, Yulian Ge | Proceedings 2025 Network and Distributed System Security Symposium
+Q: Mitigating eclipse attacks in peer-to-peer networks
+   -> Mitigating Eclipse attacks in Peer-To-Peer networks | 2014 | 10.1109/cns.2014.6997509 | Daniel Germanus, Stefanie Roos, Thorsten Strufe, Neeraj Suri | 2014 IEEE Conference on Communications and Network Security
+Q: Revisiting Bitcoin's network: unreachable nodes
+   -> Improving Bitcoin Transaction Propagation by Leveraging Unreachable Nodes | 2020 | 10.1109/blockchain50366.2020.00031 | Federico Franzoni, Vanesa Daza | 2020 IEEE International Conference on Blockchain (Blockchain)
+Q: Measuring the Concentration of Control in Contemporary Ethereum
+   -> From Concentration to Control: Measuring the Architecture of Capital Centralisation | 2026 | 10.2139/ssrn.7161739 | Nicolo Bellanca | 
+Q: What Peer Announcements Tell Us About the Size of the Bitcoin P2P Network
+   -> Short Paper: What Peer Announcements Tell Us About the Size of the Bitcoin P2P Network | 2022 | 10.1007/978-3-031-18283-9_35 | Matthias Grundmann, Hedwig Amberg, Max Baumstark, Hannes Hartenstein | Lecture Notes in Computer Science
+Q: Estimating the Peer Degree of Reachable Peers in the Bitcoin P2P Network
+   -> On the Peer Degree Distribution of the Bitcoin P2P Network | 2022 | 10.1109/icbc54727.2022.9805511 | Matthias Grundmann, Max Baumstark, Hannes Hartenstein | 2022 IEEE International Conference on Blockchain and Cryptocurrency (ICBC)
+Q: On the Estimation of the Number of Unreachable Peers in the Bitcoin P2P Network by Observation of Peer Announcements
+   -> ALTO-assisted Peer Selection in Bitcoin P2P Network | 2024 | 10.54569/aair.1608702 | Cihat Çetinkaya | Advances in Artificial Intelligence Research

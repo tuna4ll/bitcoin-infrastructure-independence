@@ -1,0 +1,85 @@
+                     scenario  nodes_lost  share_of_ip_reachable  share_of_all_reachable  share_of_all_incl_unreachable_A  share_of_all_incl_unreachable_B  remaining_ip_nodes  remaining_asns  remaining_countries  remaining_provider_hhi
+0       Baseline (no failure)           0               0.000000                0.000000                         0.000000                         0.000000                7291            1209                   94              280.107213
+1       Largest ASN (AS24940)         821               0.112605                0.036711                         0.006438                         0.099294                6470            1208                   94              186.448452
+2  Largest provider (Hetzner)         842               0.115485                0.037650                         0.006603                         0.101834                6449            1205                   94              187.558664
+3        Largest country (US)        2159               0.296119                0.096539                         0.016931                         0.261116                5132             954                   93              385.493281
+4             Top-5 providers        2154               0.295433                0.096316                         0.016892                         0.260511                5137            1186                   94              128.379994
+5            Top-10 providers        3194               0.438074                0.142819                         0.025048                         0.386292                4097            1175                   94               71.472193
+6          All hosted (H1+H2)        3220               0.441640                0.143981                         0.025252                         0.389437                4071            1002                   92              173.950574
+reachable only           dual-stack 25%  netgroup seed=1 Baseline (no failure)            LCC now=1.0000 zero_out=0.0000 hops=3.71->3.69 inbound=10.0
+reachable only           dual-stack 25%  netgroup seed=1 Largest ASN (AS24940)            LCC now=1.0000 zero_out=0.0000 hops=3.73->3.71 inbound=10.0
+reachable only           dual-stack 25%  netgroup seed=1 Largest provider (Hetzner)       LCC now=1.0000 zero_out=0.0000 hops=3.74->3.70 inbound=10.0
+reachable only           dual-stack 25%  netgroup seed=1 Largest country (US)             LCC now=1.0000 zero_out=0.0000 hops=3.79->3.67 inbound=10.0
+reachable only           dual-stack 25%  netgroup seed=1 Top-5 providers                  LCC now=1.0000 zero_out=0.0000 hops=3.79->3.67 inbound=10.0
+reachable only           dual-stack 25%  netgroup seed=1 Top-10 providers                 LCC now=1.0000 zero_out=0.0000 hops=3.81->3.64 inbound=10.0
+reachable only           dual-stack 25%  netgroup seed=1 All hosted (H1+H2)               LCC now=1.0000 zero_out=0.0001 hops=3.80->3.64 inbound=10.0
+reachable only           dual-stack 25%  asmap    seed=1 Baseline (no failure)            LCC now=1.0000 zero_out=0.0000 hops=3.71->3.71 inbound=10.0
+reachable only           dual-stack 25%  asmap    seed=1 Largest ASN (AS24940)            LCC now=1.0000 zero_out=0.0000 hops=3.71->3.69 inbound=10.0
+reachable only           dual-stack 25%  asmap    seed=1 Largest provider (Hetzner)       LCC now=1.0000 zero_out=0.0000 hops=3.72->3.70 inbound=10.0
+reachable only           dual-stack 25%  asmap    seed=1 Largest country (US)             LCC now=1.0000 zero_out=0.0000 hops=3.76->3.68 inbound=10.0
+reachable only           dual-stack 25%  asmap    seed=1 Top-5 providers                  LCC now=1.0000 zero_out=0.0000 hops=3.76->3.67 inbound=10.0
+reachable only           dual-stack 25%  asmap    seed=1 Top-10 providers                 LCC now=1.0000 zero_out=0.0000 hops=3.76->3.65 inbound=10.0
+reachable only           dual-stack 25%  asmap    seed=1 All hosted (H1+H2)               LCC now=1.0000 zero_out=0.0000 hops=3.79->3.68 inbound=10.0
+reachable only           dual-stack 25%  netgroup seed=2 Baseline (no failure)            LCC now=1.0000 zero_out=0.0000 hops=3.70->3.70 inbound=10.0
+reachable only           dual-stack 25%  netgroup seed=2 Largest ASN (AS24940)            LCC now=1.0000 zero_out=0.0000 hops=3.73->3.68 inbound=10.0
+reachable only           dual-stack 25%  netgroup seed=2 Largest provider (Hetzner)       LCC now=1.0000 zero_out=0.0000 hops=3.73->3.70 inbound=10.0
+reachable only           dual-stack 25%  netgroup seed=2 Largest country (US)             LCC now=1.0000 zero_out=0.0000 hops=3.77->3.68 inbound=10.0
+reachable only           dual-stack 25%  netgroup seed=2 Top-5 providers                  LCC now=1.0000 zero_out=0.0000 hops=3.77->3.67 inbound=10.0
+reachable only           dual-stack 25%  netgroup seed=2 Top-10 providers                 LCC now=1.0000 zero_out=0.0001 hops=3.80->3.66 inbound=10.0
+reachable only           dual-stack 25%  netgroup seed=2 All hosted (H1+H2)               LCC now=1.0000 zero_out=0.0001 hops=3.80->3.66 inbound=10.0
+reachable only           dual-stack 25%  netgroup seed=3 Baseline (no failure)            LCC now=1.0000 zero_out=0.0000 hops=3.72->3.71 inbound=10.0
+reachable only           dual-stack 25%  netgroup seed=3 Largest ASN (AS24940)            LCC now=1.0000 zero_out=0.0000 hops=3.72->3.70 inbound=10.0
+reachable only           dual-stack 25%  netgroup seed=3 Largest provider (Hetzner)       LCC now=1.0000 zero_out=0.0000 hops=3.72->3.70 inbound=10.0
+reachable only           dual-stack 25%  netgroup seed=3 Largest country (US)             LCC now=1.0000 zero_out=0.0000 hops=3.75->3.69 inbound=10.0
+reachable only           dual-stack 25%  netgroup seed=3 Top-5 providers                  LCC now=1.0000 zero_out=0.0000 hops=3.75->3.67 inbound=10.0
+reachable only           dual-stack 25%  netgroup seed=3 Top-10 providers                 LCC now=1.0000 zero_out=0.0000 hops=3.79->3.65 inbound=10.0
+reachable only           dual-stack 25%  netgroup seed=3 All hosted (H1+H2)               LCC now=1.0000 zero_out=0.0000 hops=3.80->3.66 inbound=10.0
+with non-listening est.  dual-stack 25%  netgroup seed=1 Baseline (no failure)            LCC now=1.0000 zero_out=0.0000 hops=3.76->3.78 inbound=57.0
+with non-listening est.  dual-stack 25%  netgroup seed=1 Largest ASN (AS24940)            LCC now=1.0000 zero_out=0.0000 hops=3.79->3.76 inbound=58.8
+with non-listening est.  dual-stack 25%  netgroup seed=1 Largest provider (Hetzner)       LCC now=1.0000 zero_out=0.0000 hops=3.78->3.74 inbound=58.9
+with non-listening est.  dual-stack 25%  netgroup seed=1 Largest country (US)             LCC now=1.0000 zero_out=0.0000 hops=3.88->3.73 inbound=62.1
+with non-listening est.  dual-stack 25%  netgroup seed=1 Top-5 providers                  LCC now=1.0000 zero_out=0.0000 hops=3.84->3.66 inbound=62.0
+with non-listening est.  dual-stack 25%  netgroup seed=1 Top-10 providers                 LCC now=0.9999 zero_out=0.0001 hops=3.94->3.66 inbound=64.9
+with non-listening est.  dual-stack 25%  netgroup seed=1 All hosted (H1+H2)               LCC now=0.9999 zero_out=0.0002 hops=3.94->3.62 inbound=64.9
+with non-listening est.  dual-stack 25%  asmap    seed=1 Baseline (no failure)            LCC now=1.0000 zero_out=0.0000 hops=3.76->3.71 inbound=57.0
+with non-listening est.  dual-stack 25%  asmap    seed=1 Largest ASN (AS24940)            LCC now=1.0000 zero_out=0.0000 hops=3.76->3.75 inbound=58.8
+with non-listening est.  dual-stack 25%  asmap    seed=1 Largest provider (Hetzner)       LCC now=1.0000 zero_out=0.0000 hops=3.73->3.69 inbound=58.9
+with non-listening est.  dual-stack 25%  asmap    seed=1 Largest country (US)             LCC now=1.0000 zero_out=0.0000 hops=3.90->3.66 inbound=62.1
+with non-listening est.  dual-stack 25%  asmap    seed=1 Top-5 providers                  LCC now=1.0000 zero_out=0.0000 hops=3.87->3.72 inbound=62.0
+with non-listening est.  dual-stack 25%  asmap    seed=1 Top-10 providers                 LCC now=1.0000 zero_out=0.0000 hops=3.94->3.68 inbound=64.9
+with non-listening est.  dual-stack 25%  asmap    seed=1 All hosted (H1+H2)               LCC now=1.0000 zero_out=0.0000 hops=3.92->3.72 inbound=64.9
+with non-listening est.  dual-stack 25%  netgroup seed=2 Baseline (no failure)            LCC now=1.0000 zero_out=0.0000 hops=3.75->3.76 inbound=57.0
+with non-listening est.  dual-stack 25%  netgroup seed=2 Largest ASN (AS24940)            LCC now=1.0000 zero_out=0.0000 hops=3.83->3.73 inbound=58.8
+with non-listening est.  dual-stack 25%  netgroup seed=2 Largest provider (Hetzner)       LCC now=1.0000 zero_out=0.0000 hops=3.82->3.72 inbound=58.9
+with non-listening est.  dual-stack 25%  netgroup seed=2 Largest country (US)             LCC now=1.0000 zero_out=0.0000 hops=3.88->3.71 inbound=62.1
+with non-listening est.  dual-stack 25%  netgroup seed=2 Top-5 providers                  LCC now=1.0000 zero_out=0.0000 hops=3.89->3.73 inbound=62.0
+with non-listening est.  dual-stack 25%  netgroup seed=2 Top-10 providers                 LCC now=0.9998 zero_out=0.0002 hops=3.90->3.64 inbound=64.9
+with non-listening est.  dual-stack 25%  netgroup seed=2 All hosted (H1+H2)               LCC now=0.9999 zero_out=0.0001 hops=3.96->3.69 inbound=64.9
+with non-listening est.  dual-stack 25%  netgroup seed=3 Baseline (no failure)            LCC now=1.0000 zero_out=0.0000 hops=3.73->3.74 inbound=57.0
+with non-listening est.  dual-stack 25%  netgroup seed=3 Largest ASN (AS24940)            LCC now=1.0000 zero_out=0.0000 hops=3.81->3.74 inbound=58.8
+with non-listening est.  dual-stack 25%  netgroup seed=3 Largest provider (Hetzner)       LCC now=1.0000 zero_out=0.0000 hops=3.82->3.78 inbound=58.9
+with non-listening est.  dual-stack 25%  netgroup seed=3 Largest country (US)             LCC now=1.0000 zero_out=0.0000 hops=3.87->3.71 inbound=62.1
+with non-listening est.  dual-stack 25%  netgroup seed=3 Top-5 providers                  LCC now=1.0000 zero_out=0.0000 hops=3.86->3.68 inbound=62.0
+with non-listening est.  dual-stack 25%  netgroup seed=3 Top-10 providers                 LCC now=0.9999 zero_out=0.0001 hops=3.99->3.65 inbound=64.9
+with non-listening est.  dual-stack 25%  netgroup seed=3 All hosted (H1+H2)               LCC now=0.9999 zero_out=0.0001 hops=3.95->3.64 inbound=64.9
+with non-listening est.  dual-stack 0%   netgroup seed=1 Baseline (no failure)            LCC now=0.8818 zero_out=0.0000 hops=3.66->3.63 inbound=57.0
+with non-listening est.  dual-stack 0%   netgroup seed=1 Largest ASN (AS24940)            LCC now=0.8811 zero_out=0.0000 hops=3.69->3.65 inbound=58.8
+with non-listening est.  dual-stack 0%   netgroup seed=1 Largest provider (Hetzner)       LCC now=0.8810 zero_out=0.0000 hops=3.71->3.65 inbound=58.9
+with non-listening est.  dual-stack 0%   netgroup seed=1 Largest country (US)             LCC now=0.8798 zero_out=0.0000 hops=3.72->3.58 inbound=62.1
+with non-listening est.  dual-stack 0%   netgroup seed=1 Top-5 providers                  LCC now=0.8798 zero_out=0.0000 hops=3.80->3.59 inbound=62.0
+with non-listening est.  dual-stack 0%   netgroup seed=1 Top-10 providers                 LCC now=0.8787 zero_out=0.0001 hops=3.88->3.55 inbound=64.9
+with non-listening est.  dual-stack 0%   netgroup seed=1 All hosted (H1+H2)               LCC now=0.8786 zero_out=0.0002 hops=3.88->3.55 inbound=64.9
+with non-listening est.  dual-stack 0%   netgroup seed=2 Baseline (no failure)            LCC now=0.8818 zero_out=0.0000 hops=3.65->3.68 inbound=57.0
+with non-listening est.  dual-stack 0%   netgroup seed=2 Largest ASN (AS24940)            LCC now=0.8811 zero_out=0.0000 hops=3.64->3.62 inbound=58.8
+with non-listening est.  dual-stack 0%   netgroup seed=2 Largest provider (Hetzner)       LCC now=0.8810 zero_out=0.0000 hops=3.69->3.63 inbound=58.9
+with non-listening est.  dual-stack 0%   netgroup seed=2 Largest country (US)             LCC now=0.8798 zero_out=0.0000 hops=3.83->3.60 inbound=62.1
+with non-listening est.  dual-stack 0%   netgroup seed=2 Top-5 providers                  LCC now=0.8798 zero_out=0.0000 hops=3.74->3.56 inbound=62.0
+with non-listening est.  dual-stack 0%   netgroup seed=2 Top-10 providers                 LCC now=0.8786 zero_out=0.0002 hops=3.87->3.54 inbound=64.9
+with non-listening est.  dual-stack 0%   netgroup seed=2 All hosted (H1+H2)               LCC now=0.8785 zero_out=0.0002 hops=3.87->3.53 inbound=64.9
+with non-listening est.  dual-stack 0%   netgroup seed=3 Baseline (no failure)            LCC now=0.8818 zero_out=0.0000 hops=3.64->3.64 inbound=57.0
+with non-listening est.  dual-stack 0%   netgroup seed=3 Largest ASN (AS24940)            LCC now=0.8811 zero_out=0.0000 hops=3.73->3.64 inbound=58.8
+with non-listening est.  dual-stack 0%   netgroup seed=3 Largest provider (Hetzner)       LCC now=0.8810 zero_out=0.0000 hops=3.67->3.62 inbound=58.9
+with non-listening est.  dual-stack 0%   netgroup seed=3 Largest country (US)             LCC now=0.8798 zero_out=0.0000 hops=3.80->3.58 inbound=62.1
+with non-listening est.  dual-stack 0%   netgroup seed=3 Top-5 providers                  LCC now=0.8798 zero_out=0.0000 hops=3.79->3.61 inbound=62.0
+with non-listening est.  dual-stack 0%   netgroup seed=3 Top-10 providers                 LCC now=0.8786 zero_out=0.0002 hops=3.87->3.54 inbound=64.9
+with non-listening est.  dual-stack 0%   netgroup seed=3 All hosted (H1+H2)               LCC now=0.8786 zero_out=0.0002 hops=3.88->3.51 inbound=64.9

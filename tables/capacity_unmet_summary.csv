@@ -1,0 +1,29 @@
+population,capacity,scenario,unmet_share_all,unmet_share_clearnet
+reachable only,released (114),Baseline (no failure),0.0,0.0
+reachable only,master (189),Baseline (no failure),0.0,0.0
+reachable only,released (114),Largest ASN (AS24940),0.0,0.0
+reachable only,master (189),Largest ASN (AS24940),0.0,0.0
+reachable only,released (114),Largest provider (Hetzner),0.0,0.0
+reachable only,master (189),Largest provider (Hetzner),0.0,0.0
+reachable only,released (114),Largest country (US),0.0,0.0
+reachable only,master (189),Largest country (US),0.0,0.0
+reachable only,released (114),Top-5 providers,0.0,0.0
+reachable only,master (189),Top-5 providers,0.0,0.0
+reachable only,released (114),Top-10 providers,0.0,0.0
+reachable only,master (189),Top-10 providers,0.0,0.0
+reachable only,released (114),All hosted (H1+H2),0.0,0.0
+reachable only,master (189),All hosted (H1+H2),0.0,0.0
+with non-listening est.,released (114),Baseline (no failure),0.14017812562902082,0.17708381256997022
+with non-listening est.,master (189),Baseline (no failure),0.0,0.0
+with non-listening est.,released (114),Largest ASN (AS24940),0.20892374156747598,0.264090376924721
+with non-listening est.,master (189),Largest ASN (AS24940),7.130152916785064e-05,9.013785181692428e-05
+with non-listening est.,released (114),Largest provider (Hetzner),0.21097225621228746,0.26659443730768034
+with non-listening est.,master (189),Largest provider (Hetzner),0.00010710159915581835,0.00013534933430279434
+with non-listening est.,released (114),Largest country (US),0.3233410980104345,0.4092623973686556
+with non-listening est.,master (189),Largest country (US),0.0334189575123251,0.04229924260912193
+with non-listening est.,released (114),Top-5 providers,0.3233345830774017,0.40903184748467564
+with non-listening est.,master (189),Top-5 providers,0.031493816425891503,0.03984084443013478
+with non-listening est.,released (114),Top-10 providers,0.4138372520156479,0.5241559970551727
+with non-listening est.,master (189),Top-10 providers,0.16667283359743887,0.21110344767993627
+with non-listening est.,released (114),All hosted (H1+H2),0.41633130318414285,0.5271893657804925
+with non-listening est.,master (189),All hosted (H1+H2),0.17068566478670025,0.21613449261034023

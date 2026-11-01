@@ -1,0 +1,34 @@
+                 Dataset    Day  IP nodes Top provider  Top %  Top-5 %  Prov. HHI  ASN HHI  Country HHI  Hosted %
+0          Bitnodes (D2)  4 Oct      7771      Hetzner  11.03    28.76     266.71   225.74      1396.61     43.10
+1          Bitnodes (D2)  6 Oct      7792      Hetzner  10.84    28.39     260.96   219.99      1387.13     42.62
+2  AWS crawl, IPv4 (D1b)  4 Oct      6796      Hetzner   8.30    26.22     221.48   176.95      1474.41     40.08
+3  AWS crawl, IPv4 (D1b)  6 Oct      6842      Hetzner   8.26    26.19     220.96   175.83      1478.50     39.80
+{
+ "D2": {
+  "both": 6892,
+  "only_day1": 879,
+  "only_day2": 900,
+  "jaccard": 0.794833352554492,
+  "retained": 0.8868871445116459,
+  "retained_H1": 0.8219895287958116,
+  "retained_H2": 0.9202172096908939,
+  "retained_R": 0.8786346396965866,
+  "retained_U": 0.9186295503211992,
+  "retained_hosted": 0.8922066288444311,
+  "overlay_jaccard": 0.7892633398142147,
+  "fleet_both": 610
+ },
+ "D1b_v4": {
+  "both": 6317,
+  "only_day1": 479,
+  "only_day2": 525,
+  "jaccard": 0.8628602649911215,
+  "retained": 0.9295173631547969,
+  "retained_H1": 0.9741379310344828,
+  "retained_H2": 0.9638084632516704,
+  "retained_R": 0.9011707051456574,
+  "retained_U": 0.9323308270676691,
+  "retained_hosted": 0.9673274596182085
+ }
+}
+{'D2': (1070, 1103, 720, 721, 849, 617), 'D1b_v4': (300, 313, 123, 126, 141, 128)}

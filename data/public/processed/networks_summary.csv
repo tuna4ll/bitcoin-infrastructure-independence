@@ -1,0 +1,7 @@
+dataset,file,ipv4,ipv6,endpoints_ip_port,onion,i2p,cjdns,overlay_verified,probed,status_counts,start_utc,end_utc
+D1 own crawl (home),crawl_1791106379.jsonl,3075,1729,4836.0,20570.0,4919.0,1.0,False,291336.0,"{""timeout"": 257147, ""error:OSError"": 13723, ""refused"": 8745, ""error:PermissionError"": 6501, ""ok"": 4836, ""error:IncompleteReadError"": 237, ""error:ConnectionResetError"": 144, ""error:ValueError"": 3}",1791106379.0,1791117221.0
+D1b own crawl (AWS IPv4 + home IPv6),crawl_1791122805.jsonl,6956,1729,7082.0,20787.0,5384.0,6.0,False,316351.0,"{""timeout"": 181808, ""error:OSError"": 109815, ""refused"": 16920, ""ok"": 7082, ""error:IncompleteReadError"": 443, ""error:ConnectionResetError"": 279, ""error:ValueError"": 4}",1791122805.0,1791133384.0
+D2 Bitnodes/btcnodes,bitnodes_snapshot_1791105141.json,7423,1214,8757.0,12246.0,4131.0,5.0,True,,,1791105141.0,1791105141.0
+D3 KIT DSN,20261003_121755_dossier.json,7142,1817,,,,,,,,,
+Day2 D1b AWS crawl (IPv4),crawl_1791298118.jsonl,6989,0,7122.0,20800.0,5302.0,1.0,False,324466.0,"{""timeout"": 186165, ""error:OSError"": 113344, ""refused"": 17120, ""ok"": 7122, ""error:IncompleteReadError"": 459, ""error:ConnectionResetError"": 249, ""error:ValueError"": 7}",1791298118.0,1791308999.0
+Day2 D2 Bitnodes/btcnodes,bitnodes_snapshot_20261006_1448.json,7234,1194,8550.0,12551.0,4196.0,1.0,True,,,1791296716.0,1791296716.0

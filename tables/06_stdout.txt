@@ -1,0 +1,43 @@
+                                                                            now_lcc  now_zero_outbound  now_mean_hops_all  after_mean_hops_all  after_mean_inbound  after_max_inbound
+population              dual_stack     mode     scenario                                                                                                                             
+reachable only          dual-stack 25% netgroup Baseline (no failure)        1.0000             0.0000             3.7093               3.7015             10.0000            26.6667
+                                                Largest ASN (AS24940)        1.0000             0.0000             3.7262               3.6954             10.0000            25.3333
+                                                Largest provider (Hetzner)   1.0000             0.0000             3.7305               3.6981             10.0000            27.6667
+                                                Largest country (US)         1.0000             0.0000             3.7730               3.6792             10.0000            28.0000
+                                                Top-5 providers              1.0000             0.0000             3.7715               3.6709             10.0000            29.0000
+                                                Top-10 providers             1.0000             0.0000             3.8004               3.6509             10.0000            29.0000
+                                                All hosted (H1+H2)           1.0000             0.0001             3.7998               3.6530             10.0000            28.6667
+                                       asmap    Baseline (no failure)        1.0000             0.0000             3.7058               3.7092             10.0000            27.0000
+                                                Largest ASN (AS24940)        1.0000             0.0000             3.7120               3.6899             10.0000            29.0000
+                                                Largest provider (Hetzner)   1.0000             0.0000             3.7183               3.7006             10.0000            25.0000
+                                                Largest country (US)         1.0000             0.0000             3.7594               3.6774             10.0000            28.0000
+                                                Top-5 providers              1.0000             0.0000             3.7553               3.6712             10.0000            28.0000
+                                                Top-10 providers             1.0000             0.0000             3.7557               3.6541             10.0000            32.0000
+                                                All hosted (H1+H2)           1.0000             0.0000             3.7919               3.6766             10.0000            31.0000
+with non-listening est. dual-stack 25% netgroup Baseline (no failure)        1.0000             0.0000             3.7443               3.7613             57.0273           187.3333
+                                                Largest ASN (AS24940)        1.0000             0.0000             3.8069               3.7436             58.8198           200.0000
+                                                Largest provider (Hetzner)   1.0000             0.0000             3.8048               3.7459             58.8675           204.6667
+                                                Largest country (US)         1.0000             0.0000             3.8781               3.7170             62.0534           247.0000
+                                                Top-5 providers              1.0000             0.0000             3.8635               3.6920             62.0405           246.3333
+                                                Top-10 providers             0.9999             0.0001             3.9424               3.6498             64.8643           295.3333
+                                                All hosted (H1+H2)           0.9999             0.0001             3.9492               3.6513             64.9389           300.0000
+                                       asmap    Baseline (no failure)        1.0000             0.0000             3.7605               3.7104             57.0273           196.0000
+                                                Largest ASN (AS24940)        1.0000             0.0000             3.7597               3.7469             58.8198           206.0000
+                                                Largest provider (Hetzner)   1.0000             0.0000             3.7280               3.6946             58.8675           209.0000
+                                                Largest country (US)         1.0000             0.0000             3.8964               3.6614             62.0534           277.0000
+                                                Top-5 providers              1.0000             0.0000             3.8654               3.7234             62.0405           255.0000
+                                                Top-10 providers             1.0000             0.0000             3.9354               3.6770             64.8643           297.0000
+                                                All hosted (H1+H2)           1.0000             0.0000             3.9168               3.7159             64.9389           301.0000
+                        dual-stack 0%  netgroup Baseline (no failure)        0.8818             0.0000             3.6504               3.6504             57.0273           204.6667
+                                                Largest ASN (AS24940)        0.8811             0.0000             3.6858               3.6348             58.8198           227.3333
+                                                Largest provider (Hetzner)   0.8810             0.0000             3.6932               3.6334             58.8675           222.6667
+                                                Largest country (US)         0.8798             0.0000             3.7827               3.5851             62.0534           275.3333
+                                                Top-5 providers              0.8798             0.0000             3.7795               3.5900             62.0405           271.6667
+                                                Top-10 providers             0.8786             0.0002             3.8694               3.5416             64.8643           328.3333
+                                                All hosted (H1+H2)           0.8786             0.0002             3.8758               3.5321             64.9389           325.0000
+                                  seed  nodes_evaluated  all_clearnet_outbound_one_provider  majority_clearnet_outbound_one_provider  mean_max_provider_share  ge50pct_full_relay_in_top_provider
+population              mode                                                                                                                                                                     
+reachable only          asmap      1.0     10437.000000                            0.000000                                 0.000096                 0.157923                            0.003449
+                        netgroup   2.0     10456.666667                            0.000032                                 0.003698                 0.208511                            0.022787
+with non-listening est. asmap      1.0    112531.000000                            0.000000                                 0.000027                 0.138683                            0.002079
+                        netgroup   2.0    112946.333333                            0.000009                                 0.002030                 0.195342                            0.014709

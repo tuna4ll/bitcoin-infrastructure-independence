@@ -1,0 +1,14 @@
+{
+  "targets": 3414,
+  "concurrency": 30,
+  "start_utc": 1791117286,
+  "duration_s": 330,
+  "status": {
+    "ok": 2841,
+    "timeout": 534,
+    "error:IncompleteReadError": 17,
+    "error:ConnectionResetError": 13,
+    "refused": 5,
+    "error:OSError": 4
+  }
+}

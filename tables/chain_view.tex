@@ -1,0 +1,17 @@
+\begin{table}[t]
+\centering\small
+\caption{Start height reported in the version handshake by all reachable nodes in D2 (IPv4, IPv6, Tor, I2P, CJDNS; unique hosts), relative to the modal height of the snapshot.}
+\label{tab:chainview}
+
+\begin{tabular}{lrrrrr}
+\toprule
+Height relative to SHA256d tip & Bitcoin Core & Bitcoin Knots & other & Total & Share (\%) \\
+\midrule
+at tip ($\pm$6 blocks) & 19820 & 2284 & 64 & 22168 & 88.6 \\
+below tip (lagging/syncing) & 188 & 17 & 5 & 210 & 0.8 \\
+above tip ($>$6 blocks) & 1 & 1068 & 1 & 1070 & 4.3 \\
+961{,}600--961{,}700 & 4 & 716 & 0 & 720 & 2.9 \\
+zero & 849 & 0 & 2 & 851 & 3.4 \\
+\bottomrule
+\end{tabular}
+\end{table}

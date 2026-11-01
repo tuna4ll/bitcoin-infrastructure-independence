@@ -1,0 +1,55 @@
+# Builds the paper and the public release whenever a version tag is pushed:
+#   git tag v1.0 && git push origin v1.0
+# The release contains paper.pdf and a zip of everything tracked in git plus the PDF.
+# Files with node addresses are never in git (.gitignore), and the first job
+# fails if one of them was committed by mistake. The full address leak check
+# needs the private data, so it runs locally: analysis/09_anonymize_release.py.
+name: release
+
+on:
+  push:
+    tags: ["v*"]
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    env:
+      NAME: bitcoin-infrastructure-independence
+      TAG: ${{ github.ref_name }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Refuse to publish private files
+        run: |
+          bad=$(git ls-files | grep -E \
+            '^data/\.anon_key$|^data/processed/|^data/raw/crawl[^/]*/.*(\.jsonl|_overlay\.json)$|bitnodes_snapshot_.*\.json$' || true)
+          if [ -n "$bad" ]; then
+            echo "::error::Files with node addresses are tracked in git:"
+            echo "$bad"
+            exit 1
+          fi
+
+      - name: Build the paper
+        uses: xu-cheng/latex-action@v3
+        with:
+          working_directory: paper
+          root_file: paper.tex
+
+      - name: Package the release
+        run: |
+          mkdir -p dist/stage
+          git archive --prefix="$NAME/" HEAD | tar -x -C dist/stage
+          cp paper/paper.pdf "dist/stage/$NAME/paper/paper.pdf"
+          (cd dist/stage && zip -qr "../$NAME-$TAG.zip" "$NAME")
+          cp paper/paper.pdf "dist/$NAME-$TAG.pdf"
+          ls -lh dist/*.zip dist/*.pdf
+
+      - name: Create the GitHub release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release create "$TAG" "dist/$NAME-$TAG.zip" "dist/$NAME-$TAG.pdf" \
+            --title "$TAG" --generate-notes

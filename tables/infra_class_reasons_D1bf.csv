@@ -1,0 +1,13 @@
+infra_class,class_reason,nodes,share
+H1,cloud-range:Google,579,0.06793382611756424
+H1,cloud-range:Amazon,471,0.05526223160858852
+H1,cloud-range:DigitalOcean,260,0.03050569048457116
+H1,cloud-range:Akamai/Linode,41,0.004810512730259299
+H1,cloud-range:Oracle,37,0.004341194415112049
+H1,cloud-range:Microsoft,17,0.0019946028393758065
+H2,peeringdb-content,2156,0.252962571864367
+H2,curated-list,219,0.025695177754311863
+H2,name-regex,152,0.017834095975595446
+R,apnic-users,4040,0.47401149829872113
+R,peeringdb-isp,68,0.007978411357503226
+U,unmatched,483,0.05667018655403027

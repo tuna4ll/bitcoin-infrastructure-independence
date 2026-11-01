@@ -1,0 +1,26 @@
+{
+  "start_utc": 1791122805,
+  "end_utc": 1791133384,
+  "dns_seeds": [
+    "seed.bitcoin.sipa.be",
+    "dnsseed.bluematt.me",
+    "seed.bitcoin.jonasschnelli.ch",
+    "seed.btc.petertodd.net",
+    "seed.bitcoin.sprovoost.nl",
+    "dnsseed.emzy.de",
+    "seed.bitcoin.wiz.biz",
+    "seed.mainnet.achownodes.xyz"
+  ],
+  "concurrency": 250,
+  "connect_timeout": 6.0,
+  "handshake_timeout": 10.0,
+  "getaddr_window": 12.0,
+  "max_addr_age_s": 604800,
+  "user_agent": "/bitcoin-infra-research:0.1/",
+  "probed_endpoints": 316351,
+  "overlay_addresses": 32950,
+  "retried_timeouts": 183090,
+  "seed_endpoints": 275,
+  "gossip_ip_total": 4962682,
+  "gossip_ip_too_old": 349327
+}

@@ -1,0 +1,18 @@
+{
+  "primary": "D2",
+  "ip_nodes": 7291,
+  "overlay_nodes": {
+    "onion": 11404,
+    "i2p": 3665,
+    "cjdns": 4
+  },
+  "n_unreach_luke": 105153,
+  "inbound_cap": 114,
+  "inbound_cap_master": 189,
+  "dual_stack": 0.25,
+  "seeds": [
+    1,
+    2,
+    3
+  ]
+}

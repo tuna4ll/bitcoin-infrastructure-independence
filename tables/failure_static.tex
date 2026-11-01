@@ -1,0 +1,19 @@
+\begin{table}[t]
+\centering\small
+\caption{Static accounting of hypothetical failures (D2, SHA256d-chain functional IPv4/IPv6 nodes). \% all (A): non-listening nodes (Luke Dashjr estimate) assumed unaffected; (B): affected in the same proportion as reachable IP nodes.}
+\label{tab:failstatic}
+\resizebox{\linewidth}{!}{%
+\begin{tabular}{lrrrrrrr}
+\toprule
+Scenario & Lost & \% IP & \% reach. & \% all (A) & \% all (B) & ASNs left & Countries left \\
+\midrule
+Baseline (no failure) & 0 & 0.0 & 0.0 & 0.0 & 0.0 & 1209 & 94 \\
+Largest ASN (AS24940) & 821 & 11.3 & 3.7 & 0.6 & 9.9 & 1208 & 94 \\
+Largest provider (Hetzner) & 842 & 11.5 & 3.8 & 0.7 & 10.2 & 1205 & 94 \\
+Largest country (US) & 2159 & 29.6 & 9.7 & 1.7 & 26.1 & 954 & 93 \\
+Top-5 providers & 2154 & 29.5 & 9.6 & 1.7 & 26.1 & 1186 & 94 \\
+Top-10 providers & 3194 & 43.8 & 14.3 & 2.5 & 38.6 & 1175 & 94 \\
+All hosted (H1+H2) & 3220 & 44.2 & 14.4 & 2.5 & 38.9 & 1002 & 92 \\
+\bottomrule
+\end{tabular}}
+\end{table}

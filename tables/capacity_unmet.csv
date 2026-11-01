@@ -1,0 +1,85 @@
+population,seed,scenario,capacity,unmet_share_all,unmet_share_clearnet
+reachable only,1,Baseline (no failure),released (114),0.0,0.0
+reachable only,1,Baseline (no failure),master (189),0.0,0.0
+reachable only,1,Largest ASN (AS24940),released (114),0.0,0.0
+reachable only,1,Largest ASN (AS24940),master (189),0.0,0.0
+reachable only,1,Largest provider (Hetzner),released (114),0.0,0.0
+reachable only,1,Largest provider (Hetzner),master (189),0.0,0.0
+reachable only,1,Largest country (US),released (114),0.0,0.0
+reachable only,1,Largest country (US),master (189),0.0,0.0
+reachable only,1,Top-5 providers,released (114),0.0,0.0
+reachable only,1,Top-5 providers,master (189),0.0,0.0
+reachable only,1,Top-10 providers,released (114),0.0,0.0
+reachable only,1,Top-10 providers,master (189),0.0,0.0
+reachable only,1,All hosted (H1+H2),released (114),0.0,0.0
+reachable only,1,All hosted (H1+H2),master (189),0.0,0.0
+reachable only,2,Baseline (no failure),released (114),0.0,0.0
+reachable only,2,Baseline (no failure),master (189),0.0,0.0
+reachable only,2,Largest ASN (AS24940),released (114),0.0,0.0
+reachable only,2,Largest ASN (AS24940),master (189),0.0,0.0
+reachable only,2,Largest provider (Hetzner),released (114),0.0,0.0
+reachable only,2,Largest provider (Hetzner),master (189),0.0,0.0
+reachable only,2,Largest country (US),released (114),0.0,0.0
+reachable only,2,Largest country (US),master (189),0.0,0.0
+reachable only,2,Top-5 providers,released (114),0.0,0.0
+reachable only,2,Top-5 providers,master (189),0.0,0.0
+reachable only,2,Top-10 providers,released (114),0.0,0.0
+reachable only,2,Top-10 providers,master (189),0.0,0.0
+reachable only,2,All hosted (H1+H2),released (114),0.0,0.0
+reachable only,2,All hosted (H1+H2),master (189),0.0,0.0
+reachable only,3,Baseline (no failure),released (114),0.0,0.0
+reachable only,3,Baseline (no failure),master (189),0.0,0.0
+reachable only,3,Largest ASN (AS24940),released (114),0.0,0.0
+reachable only,3,Largest ASN (AS24940),master (189),0.0,0.0
+reachable only,3,Largest provider (Hetzner),released (114),0.0,0.0
+reachable only,3,Largest provider (Hetzner),master (189),0.0,0.0
+reachable only,3,Largest country (US),released (114),0.0,0.0
+reachable only,3,Largest country (US),master (189),0.0,0.0
+reachable only,3,Top-5 providers,released (114),0.0,0.0
+reachable only,3,Top-5 providers,master (189),0.0,0.0
+reachable only,3,Top-10 providers,released (114),0.0,0.0
+reachable only,3,Top-10 providers,master (189),0.0,0.0
+reachable only,3,All hosted (H1+H2),released (114),0.0,0.0
+reachable only,3,All hosted (H1+H2),master (189),0.0,0.0
+with non-listening est.,1,Baseline (no failure),released (114),0.14032922133429532,0.17724284938844886
+with non-listening est.,1,Baseline (no failure),master (189),0.0,0.0
+with non-listening est.,1,Largest ASN (AS24940),released (114),0.20897136362201243,0.2641345664601479
+with non-listening est.,1,Largest ASN (AS24940),master (189),0.00010971489912543807,0.00013867688286292937
+with non-listening est.,1,Largest provider (Hetzner),released (114),0.2112511940380987,0.26685241713278796
+with non-listening est.,1,Largest provider (Hetzner),master (189),0.00011289087478586259,0.00014260370430573436
+with non-listening est.,1,Largest country (US),released (114),0.3237088565183401,0.4095374584943936
+with non-listening est.,1,Largest country (US),master (189),0.03375241316591413,0.04270157342833786
+with non-listening est.,1,Top-5 providers,released (114),0.32371189942485185,0.4093139133767727
+with non-listening est.,1,Top-5 providers,master (189),0.031764771576033635,0.040164612374170384
+with non-listening est.,1,Top-10 providers,released (114),0.4142230873800465,0.5243886046663191
+with non-listening est.,1,Top-10 providers,master (189),0.16705813270698766,0.21148840752085507
+with non-listening est.,1,All hosted (H1+H2),released (114),0.41660190034837036,0.5273515354399272
+with non-listening est.,1,All hosted (H1+H2),master (189),0.1709525073817512,0.21639859822935306
+with non-listening est.,2,Baseline (no failure),released (114),0.1407778030475324,0.17770733677574682
+with non-listening est.,2,Baseline (no failure),master (189),0.0,0.0
+with non-listening est.,2,Largest ASN (AS24940),released (114),0.20934471000536733,0.2644821853986982
+with non-listening est.,2,Largest ASN (AS24940),master (189),2.999400119976005e-05,3.789385930010042e-05
+with non-listening est.,2,Largest provider (Hetzner),released (114),0.21125040459142186,0.26685301658500976
+with non-listening est.,2,Largest provider (Hetzner),master (189),7.736577432877296e-05,9.772899748996034e-05
+with non-listening est.,2,Largest country (US),released (114),0.32363945306890884,0.40948560827580915
+with non-listening est.,2,Largest country (US),master (189),0.033367902101249264,0.042218819613159014
+with non-listening est.,2,Top-5 providers,released (114),0.3234319035729385,0.4091047142025429
+with non-listening est.,2,Top-5 providers,master (189),0.03167223733437567,0.04006179186312961
+with non-listening est.,2,Top-10 providers,released (114),0.4141386272412101,0.5243377454779506
+with non-listening est.,2,Top-10 providers,master (189),0.1669768900972498,0.21140816224688389
+with non-listening est.,2,All hosted (H1+H2),released (114),0.4168070607355201,0.527474250526393
+with non-listening est.,2,All hosted (H1+H2),master (189),0.17116410417320363,0.2166101922708816
+with non-listening est.,3,Baseline (no failure),released (114),0.13942735250523475,0.176301251545715
+with non-listening est.,3,Baseline (no failure),master (189),0.0,0.0
+with non-listening est.,3,Largest ASN (AS24940),released (114),0.20845515107504814,0.26365437891531684
+with non-listening est.,3,Largest ASN (AS24940),master (189),7.41956871783538e-05,9.384281328774303e-05
+with non-listening est.,3,Largest provider (Hetzner),released (114),0.21041517000734186,0.26607787820524337
+with non-listening est.,3,Largest provider (Hetzner),master (189),0.00013104814835281951,0.0001657153011126884
+with non-listening est.,3,Largest country (US),released (114),0.32267498444405446,0.4087641253357641
+with non-listening est.,3,Largest country (US),master (189),0.03313655726981189,0.0419773347858689
+with non-listening est.,3,Top-5 providers,released (114),0.3228599462344148,0.4086769148747112
+with non-listening est.,3,Top-5 providers,master (189),0.031044440367265214,0.03929612905310435
+with non-listening est.,3,Top-10 providers,released (114),0.4131500414256871,0.5237416410212484
+with non-listening est.,3,Top-10 providers,master (189),0.16598347798807905,0.21041377327206984
+with non-listening est.,3,All hosted (H1+H2),released (114),0.41558494846853805,0.5267423113751571
+with non-listening est.,3,All hosted (H1+H2),master (189),0.1699403828051459,0.215394687330786

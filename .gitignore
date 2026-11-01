@@ -1,0 +1,24 @@
+# Never publish these. They contain IP, onion or I2P addresses of individual nodes.
+data/.anon_key
+data/processed/
+data/raw/crawl/*.jsonl
+data/raw/crawl/*_overlay.json
+data/raw/crawl_aws*/*.jsonl
+data/raw/crawl_aws*/*_overlay.json
+data/raw/*/bitnodes_snapshot_*.json
+data/raw/bitnodes_snapshot_*.json
+# Build files and local environment
+.venv/
+release/
+__pycache__/
+*.pyc
+paper/*.aux
+paper/*.log
+paper/*.blg
+paper/*.bbl
+paper/*.out
+paper/*.fls
+paper/*.fdb_latexmk
+paper/*.synctex.gz
+# Built by CI and attached to each GitHub release
+paper/paper.pdf
